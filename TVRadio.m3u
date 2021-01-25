@@ -1,0 +1,139 @@
+#EXTM3U TV y Radios Uruguay by GenioWEPES
+
+#EXTINF:0, Canales TV
+https://www.youtube.com/watch?v=WHDSpgeloKs
+
+#EXTINF:-1 tvg-id="Uruguay Natural" tvg-logo="https://i1.wp.com/uclplay.com/wp-content/uploads/2020/04/logo-horizontal-1.png?" tvg-name="Uruguay Natural",Uruguay Natural
+https://cdnw1.zetatv.com.uy/live_edge/_definst_/amlst:24315/manifest_w1490177842_qdG9rZW49NDQzZGY1YTQtMDY2NS00NDQwLTk5ZjYtZTJmZmRhNzQwYTRm.mpd
+
+#EXTINF:-1 tvg-id="Montecarlo TV" tvg-logo="https://pbs.twimg.com/media/EgmG3hlWoAEtj2J.jpg" tvg-name="Canal 4",Canal 4
+https://edge4-hr.cvattv.com.ar/live/c5eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
+
+#EXTINF:-1 tvg-id="Montecarlo TV" tvg-logo="https://pbs.twimg.com/media/EgmG3hlWoAEtj2J.jpg" tvg-name="Canal 4 Opc 2",Canal 4 Opción 2
+http://chromecast.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
+
+#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10",Canal 10
+https://cdnw1.zetatv.com.uy/live_edge/_definst_/amlst:9/manifest_w2123085761_qdG9rZW49N2FkMjhmYjItNzQ4OC00ODBlLTkxNjctYmViMDFkNjk0ZDc5.mpd
+
+#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10 Opcion 2",Canal 10 Opc 2
+https://edge4-hr.cvattv.com.ar/live/c5eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
+
+#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10 Opción 3",Canal 10 Opc 3 (Solo Subrayado)
+https://www.subrayado.com.uy/resources/_post/subrayado/get-vivo.php
+
+#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10 Opcion 4",Canal 10 Opc 4
+http://chromecast.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU.m3u8
+
+#EXTINF:-1 tvg-id="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce",Teledoce
+https://edge4-hr.cvattv.com.ar/live/c5eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
+
+#EXTINF:0 tvg-id="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce Opc 3",Teledoce Opc 3
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+
+#EXTINF:-1 tvg-id="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce Opc 3",Teledoce Opc 3
+http://chromecast.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating/Canal12URU.m3u8
+
+#EXTINF:0, Canal 11 Punta del Este
+https://conceptoweb-studio.com/radio/video/canal11ury/
+
+#EXTINF:0, Canal U
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?
+
+#EXTINF:0, Montevideo Portal (Funciona A veces)
+https://wowza.montevideo.com.uy:2443/live/mvdstrem/playlist.m3u8
+
+#EXTINF:0, TVF Florida
+http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:0, ICM TV
+https://www.youtube.com/watch?v=xUaU8Vfyfdw
+
+#EXTINF:0, Radio AM
+https://www.youtube.com/watch?v=WHDSpgeloKs
+
+#EXTINF:0, Radio Clarin 580 AM
+https://medios.ciudaddigital.com.uy:18032/ClarinAM
+
+#EXTINF:0, Radio Rural 610 AM
+https://radiolatina.live:10959/stream
+
+#EXTINF:0, Radio Clasica 650 AM
+http://173.249.7.231:8076/stream
+
+#EXTINF:0, Radio Sarandi 690 AM
+https://d1a7butsko8nkd.cloudfront.net/sarandi.mp3
+
+#EXTINF:0, Continente 730 AM
+http://mzpb.homeip.net:8152/;?type=http
+
+#EXTINF:0, Radio Oriental 770 AM
+http://radiolatina.live:7906/1
+
+#EXTINF:0, Radio El Espectador 810 AM
+http://espectador2.net.com.uy:8120/;
+
+#EXTINF:0, Radio Carve 850 AM
+http://radiolatina.live/9202/stream;
+
+#EXTINF:0, Sport 890 AM
+https://radios-mp3-uy.cdn.nedmedia.io/sport.mp3
+
+#EXTINF:0, Montecarlo 930 AM
+https://radiolatina.live:10965/;
+
+#EXTINF:0, Universal 970 AM
+https://radio.970universal.com:8012/;
+
+#EXTINF:0, La 1010
+https://radiolatina.live/9204/stream.mp3
+
+#EXTINF:0, Radio Uruguay
+http://173.249.7.231:8084/stream
+
+#EXTINF:0, Radio Maria
+https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream
+
+#EXTINF:0, Radio Nacional
+http://198.15.107.53:8090/;
+
+#EXTINF:0, RadioMundo 1170 AM
+https://listen.mixlr.com/cde284ae514f34f3052ee310b2daa4e7
+
+#EXTINF:0, Radio Centenario
+http://rfm.radio.netgate.com.uy:8000/centenario
+
+#EXTINF:0, Emisora del Sur
+http://173.249.7.231:8100/stream
+
+#EXTINF:0, Radio Fenix
+https://sp3.servidorrprivado.com/8070/;
+
+#EXTINF:0, Radio LaCatorce
+https://radio.lacatorce10.com.uy:8062/;
+
+#EXTINF:0, CX46 Radio America
+https://radiocx46-zikoxweb.radioca.st/stream
+
+#EXTINF:0, Radio FM
+https://www.youtube.com/watch?v=WHDSpgeloKs
+
+#EXTINF:0, FM Hit
+https://hitfmnew-zikoxweb.radioca.st/stream/1/
+
+#EXTINF:0, Radio Futura
+https://radios-mp3-uy.cdn.nedmedia.io/uy-futura.mp3
+
+#EXTINF:0, Radio Disney
+https://radiolatina.live/9350/stream/1/
+
+#EXTINF:0, Radio Urbana
+https://radio2.urbana.uy:9922/stream/1/
+
+#EXTINF:0, Oceano FM
+https://radio1.oceanofm.com:8012/stream/1/
+
+#EXTINF:0, Del Plata FM
+https://d1a7butsko8nkd.cloudfront.net/uy-delplata.mp3
+
+#EXTINF:0, Alfa FM
+http://radioonline.netgate.com.uy:8000/alfafm
