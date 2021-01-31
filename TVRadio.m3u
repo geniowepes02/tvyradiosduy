@@ -1,5 +1,5 @@
 #EXTM3U TV y Radios Uruguay by GenioWEPES
-Actualizado 27-1-21
+Actualizado 30-1-21
 
 #EXTINF:0, Canales TV
 https://www.youtube.com/watch?v=WHDSpgeloKs
@@ -7,31 +7,31 @@ https://www.youtube.com/watch?v=WHDSpgeloKs
 #EXTINF:-1 tvg-id="Uruguay Natural" tvg-logo="https://www.gub.uy/ministerio-turismo/sites/ministerio-turismo/files/2019-05/logo%20mintur%20blanco%20horiz_0.jpg" tvg-name="Uruguay Natural",Uruguay Natural
 https://cdnw1.zetatv.com.uy/live_edge/_definst_/amlst:24315/manifest_w1490177842_qdG9rZW49NDQzZGY1YTQtMDY2NS00NDQwLTk5ZjYtZTJmZmRhNzQwYTRm.mpd
 
-#EXTINF:-1 tvg-id="Montecarlo TV" tvg-logo="https://pbs.twimg.com/media/EgmG3hlWoAEtj2J.jpg" tvg-name="Canal 4",Canal 4
+#EXTINF:-1 tvg-id="Canal 4 HD" tvg-logo="https://pbs.twimg.com/media/EgmG3hlWoAEtj2J.jpg" tvg-name="Canal 4 HD",Canal 4
 https://edge4-hr.cvattv.com.ar/live/c5eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
 
-#EXTINF:-1 tvg-id="Montecarlo TV" tvg-logo="https://pbs.twimg.com/media/EgmG3hlWoAEtj2J.jpg" tvg-name="Canal 4 Opc 2",Canal 4 Opción 2
+#EXTINF:-1 tvg-id="Canal 4 HD" tvg-logo="https://pbs.twimg.com/media/EgmG3hlWoAEtj2J.jpg" tvg-name="Canal 4 HD",Canal 4 Opción 2
 http://chromecast.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 
-#EXTINF:-1 tvg-id="Canal 10 UY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10",Canal 10
+#EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Canal 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-url="" ,Canal 10
 https://cdnw1.zetatv.com.uy/live_edge/_definst_/amlst:9/manifest_w2123085761_qdG9rZW49N2FkMjhmYjItNzQ4OC00ODBlLTkxNjctYmViMDFkNjk0ZDc5.mpd
 
-#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10 Opcion 2",Canal 10 Opc 2
+#EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Canal 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-url="" ,Canal 10 Opc 2
 https://edge4-hr.cvattv.com.ar/live/c5eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
 
-#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10 Opción 3",Canal 10 Opc 3 (Solo Subrayado)
+#EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Canal 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-url="" ,Canal 10 Opc 3 (Solo Subrayado)
 https://www.subrayado.com.uy/resources/_post/subrayado/get-vivo.php
 
-#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-name="Canal 10 Opcion 4",Canal 10 Opc 4
+#EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Canal 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg" tvg-url="" ,Canal 10 Opc 4
 http://chromecast.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU.m3u8
 
-#EXTINF:-1 tvg-id="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce",Teledoce
+#EXTINF:-1 tvg-id="La Tele HD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce",Teledoce
 https://edge4-hr.cvattv.com.ar/live/c5eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
 
-#EXTINF:0 tvg-id="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce Opc 2",Teledoce Opc 2
+#EXTINF:0 tvg-id="La Tele HD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce Opc 2",Teledoce Opc 2
 https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 
-#EXTINF:-1 tvg-id="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="Teledoce Opc 3",Teledoce Opc 3
+#EXTINF:-1 tvg-id="La Tele HD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="La Tele HD",Teledoce Opc 3
 http://chromecast.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating/Canal12URU.m3u8
 
 #EXTINF:-1 tvg-id="Canal Once" tvg-logo="https://cronicasdeleste.com.uy/hqdefault.jpg" tvg-name="Canal Once",Canal Once
@@ -48,6 +48,28 @@ http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
 
 #EXTINF:0, ICM TV
 https://www.youtube.com/watch?v=xUaU8Vfyfdw
+
+#EXTINF:0, Maroñas
+https://codere-mls-uruguay.akamaized.net/hls/live/2004038/MSL4URUGUAY/video_0/video_0.m3u8
+
+#EXTINF:0, Maroñas 2
+http://wowza.montevideo.net.uy:1941/hipica/livestream/chunklist.m3u8
+
+#EXTINF:0, Canales Vera TV
+https://www.youtube.com/watch?v=WHDSpgeloKs
+
+#EXTINF:0, Vera TV
+https://tv.vera.com.uy/canal/6001
+
+#EXTINF:0, TV Ciudad HD
+https://tv.vera.com.uy/canal/6046
+
+#EXTINF:0, TNU HD
+https://tv.vera.com.uy/canal/6042
+
+#EXTINF:0, Maroñas
+https://tv.vera.com.uy/canal/6056
+
 
 #EXTINF:0, Radio AM
 https://www.youtube.com/watch?v=WHDSpgeloKs
@@ -267,3 +289,4 @@ https://radio.970universal.com:8012/;
 
 #EXTINF:0 group-title="Deportivo", Roberto Moar - Sport 890
 https://radios-mp3-uy.cdn.nedmedia.io/sport.mp3
+
