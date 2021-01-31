@@ -1,0 +1,1679 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 4 HD">
+    <display-name lang="es">Canal 4 HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/420.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="Canal 10 HD">
+    <display-name lang="es">Canal 10 HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/421.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="La Tele HD">
+    <display-name lang="es">La Tele HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/422.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="VTV + HD">
+    <display-name lang="es">VTV + HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/425.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="VTV HD">
+    <display-name lang="es">VTV HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/424.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="TV Ciudad HD">
+    <display-name lang="es">TV Ciudad HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/426.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="TNU HD">
+    <display-name lang="es">TNU HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/423.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <programme start="20210130210000 -0300" stop="20210130220000 -0300" channel="Canal 4 HD">
+    <title lang="es">De la tierra al plato</title>
+    <desc lang="es">A través de este espacio se reviven los sabores de la comida de olla, ya que nuestro anfitrión nos enseña a cocinar con los ingredientes típicos de nuestra tierra.(n)</desc>
+  </programme>
+  <programme start="20210130220000 -0300" stop="20210130230000 -0300" channel="Canal 4 HD">
+    <title lang="es">Unic@s</title>
+    <desc lang="es">Un programa que reconoce la labor de las grandes figuras del espectáculo en un recorrido por sus vidas y carreras artísticas.(n)</desc>
+  </programme>
+  <programme start="20210130230000 -0300" stop="20210131011500 -0300" channel="Canal 4 HD">
+    <title lang="es">Éxodo</title>
+    <desc lang="es">Moisés desafió a un imperio cuando se rebeló contra el todopoderoso faraón Ramsés, liberando a 600.000 esclavos en una épica huída a través de Egipto, llena de peligros y mortíferas plagas, en busca de la Tierra Prometida.(n)</desc>
+  </programme>
+  <programme start="20210131011500 -0300" stop="20210131030000 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20210131030000 -0300" stop="20210131073000 -0300" channel="Canal 4 HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.(n)</desc>
+  </programme>
+  <programme start="20210131073000 -0300" stop="20210131080000 -0300" channel="Canal 4 HD">
+    <title lang="es">Show de la fe</title>
+    <desc lang="es">Emisión de evangelización y enseñanza de la palabra de Dios en donde el Misionero RR Soares aclara dudas, orienta a personas que le piden consejos por cartas y abre espacio a quienes desean hablar acerca de la obra del Señor.(n)</desc>
+  </programme>
+  <programme start="20210131080000 -0300" stop="20210131083000 -0300" channel="Canal 4 HD">
+    <title lang="es">Santa Misa</title>
+    <desc lang="es">Todos los domingos en la mañana oramos junto los padres Ernesto y Guillermo.(n)</desc>
+  </programme>
+  <programme start="20210131083000 -0300" stop="20210131093000 -0300" channel="Canal 4 HD">
+    <title lang="es">Agro 4</title>
+    <desc lang="es">El programa que recorre más kilómetros por el país, buscando reflejar con certeza la realidad de las diferentes producciones que integran a la agropecuaria nacional.(n)</desc>
+  </programme>
+  <programme start="20210131093000 -0300" stop="20210131110000 -0300" channel="Canal 4 HD">
+    <title lang="es">De rebote</title>
+  </programme>
+  <programme start="20210131110000 -0300" stop="20210131123000 -0300" channel="Canal 4 HD">
+    <title lang="es">Las recetas de Morfi</title>
+    <desc lang="es">Un programa imperdible para revivir las mejores preparaciones de Morfi, todos a la mesa y La Peña. Todos los días, un menú diferente, con las mejores recetas, tips y recomendaciones para destacarse en la cocina.(n)</desc>
+  </programme>
+  <programme start="20210131123000 -0300" stop="20210131140000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía</title>
+    <desc lang="es">Todo lo que hay que saber, en una hora de noticias al mediodía. Lo más destacado del país y el mundo con la presentación de Yisela Moreira y Viviana Aguerre.(n)</desc>
+  </programme>
+  <programme start="20210131140000 -0300" stop="20210131153000 -0300" channel="Canal 4 HD">
+    <title lang="es">Zoom Internacional</title>
+    <desc lang="es">Una hora con el contenido más novedoso y entretenido del panorama internacional.(n)</desc>
+  </programme>
+  <programme start="20210131153000 -0300" stop="20210131163000 -0300" channel="Canal 4 HD">
+    <title lang="es">Reenviado verano</title>
+    <desc lang="es">Hay videos que nos llegan a través de las redes sociales que merecen ser compartidos.(n)</desc>
+  </programme>
+  <programme start="20210131163000 -0300" stop="20210131173000 -0300" channel="Canal 4 HD">
+    <title lang="es">De película</title>
+    <desc lang="es">Espacio para disfrutar de grandes producciones del séptimo arte, donde podrás ver las mejores escenas y el talento de los más destacados artistas de la industria.(n)</desc>
+  </programme>
+  <programme start="20210131173000 -0300" stop="20210131190000 -0300" channel="Canal 4 HD">
+    <title lang="es">Aquí está su música</title>
+    <desc lang="es">Los mejores videoclips nacionales e internacionales. Música para recordar, bailar y disfrutar en familia.(n)</desc>
+  </programme>
+  <programme start="20210131190000 -0300" stop="20210131210000 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20210131210000 -0300" stop="20210131220000 -0300" channel="Canal 4 HD">
+    <title lang="es">En foco</title>
+    <desc lang="es">Sebastián Beltrame recorre el país y deja en evidencia la belleza de nuestros paisajes y costumbres.(n)</desc>
+  </programme>
+  <programme start="20210131220000 -0300" stop="20210131230000 -0300" channel="Canal 4 HD">
+    <title lang="es">Por el mundo en casa</title>
+    <desc lang="es">Marley desde su casa visita a los famosos más queridos que también van a estar en sus hogares. Juntos compartirán material inédito de los viajes que Marley realizó con cada uno de ellos.(n)</desc>
+  </programme>
+  <programme start="20210131230000 -0300" stop="20210201004500 -0300" channel="Canal 4 HD">
+    <title lang="es">Mike y Dave: Los busca novias</title>
+    <desc lang="es">Dos hermanos muy fiesteros ponen un anuncio online para encontrar las parejas perfectas para ir a la boda hawaiana de su hermana. Esperando una escapada salvaje, los chicos se encuentran sobrepasados por un dúo incontrolable.(n)</desc>
+  </programme>
+  <programme start="20210201004500 -0300" stop="20210201030000 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20210201030000 -0300" stop="20210201060000 -0300" channel="Canal 4 HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.(n)</desc>
+  </programme>
+  <programme start="20210201060000 -0300" stop="20210201063000 -0300" channel="Canal 4 HD">
+    <title lang="es">Show de la fe</title>
+    <desc lang="es">Emisión de evangelización y enseñanza de la palabra de Dios en donde el Misionero RR Soares aclara dudas, orienta a personas que le piden consejos por cartas y abre espacio a quienes desean hablar acerca de la obra del Señor.(n)</desc>
+  </programme>
+  <programme start="20210201063000 -0300" stop="20210201070000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20210201070000 -0300" stop="20210201080000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía - Primera hora</title>
+    <desc lang="es">La mejor cobertura informativa todas las mañanas.(n)</desc>
+  </programme>
+  <programme start="20210201080000 -0300" stop="20210201100000 -0300" channel="Canal 4 HD">
+    <title lang="es">Buen día</title>
+    <desc lang="es">En Buen Día Uruguay se abordan una variedad de temas: noticias, actualidad, cultura, sociedad, salud, moda, deportes, cocina, hobbies, decoración, sexualidad, trucos e ideas para el hogar.(n)</desc>
+  </programme>
+  <programme start="20210201100000 -0300" stop="20210201103000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20210201103000 -0300" stop="20210201123000 -0300" channel="Canal 4 HD">
+    <title lang="es">Vamo arriba</title>
+    <desc lang="es">Actualidad, cocina y entretenimiento con Fede Paz, Andy Vila, El Rusito, Pablo Magno y Marcelo Bornio.Un programa que tiene todos los condimentos, entretenimiento, juegos con la gente, premios y plata.(n)</desc>
+  </programme>
+  <programme start="20210201123000 -0300" stop="20210201143000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía</title>
+    <desc lang="es">Todo lo que hay que saber, en una hora de noticias al mediodía. Lo más destacado del país y el mundo con la presentación de Yisela Moreira y Viviana Aguerre.(n)</desc>
+  </programme>
+  <programme start="20210201143000 -0300" stop="20210201161500 -0300" channel="Canal 4 HD">
+    <title lang="es">Algo contigo</title>
+    <desc lang="es">Todos los días te informamos de los acontecimientos y chimentos más importantes de la farándula local, regional e internacional.(n)</desc>
+  </programme>
+  <programme start="20210201161500 -0300" stop="20210201173000 -0300" channel="Canal 4 HD">
+    <title lang="es">Vespertinas</title>
+    <desc lang="es">Un talk show en el que cuatro mujeres de diferentes perfiles dará su punto de vista sobre diversos temas de actualidad. La charla será condimentada por la opinión de expertos, informes especiales y testimonios.(n)</desc>
+  </programme>
+  <programme start="20210201173000 -0300" stop="20210201180000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20210201180000 -0300" stop="20210201190000 -0300" channel="Canal 4 HD">
+    <title lang="es">Alas rotas</title>
+    <desc lang="es">Zeynep, Emre, Cemre y Aysun se quedan solos en la pobreza después de la muerte de su padre. Su motivación en la vida es su madre Nefise, quien hará cualquier cosa por su felicidad. Sin embargo, la familia pasará por momentos difíciles.(n)</desc>
+  </programme>
+  <programme start="20210201190000 -0300" stop="20210201211500 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20210201211500 -0300" stop="20210201221500 -0300" channel="Canal 4 HD">
+    <title lang="es">Minuto para ganar</title>
+    <desc lang="es">Los concursantes tendrán que enfrentar diferentes desafíos en tan solo un minuto cada uno y contarán con tres oportunidades, que irán perdiendo cada vez que no logren completar el juego en el tiempo estipulado.(n)</desc>
+  </programme>
+  <programme start="20210201221500 -0300" stop="20210201231500 -0300" channel="Canal 4 HD">
+    <title lang="es">Traición Secreta</title>
+    <desc lang="es">Yasemin trabaja en una agencia de publicidad. Estaba comprometida con Mehmet, pero una semana antes de su boda, encuentra a su novio en la cama con su mejor amiga.(n)</desc>
+  </programme>
+  <programme start="20210201231500 -0300" stop="20210202000000 -0300" channel="Canal 4 HD">
+    <title lang="es">9-1-1</title>
+    <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras.(n)</desc>
+  </programme>
+  <programme start="20210202000000 -0300" stop="20210202004500 -0300" channel="Canal 4 HD">
+    <title lang="es">9-1-1</title>
+    <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras.(n)</desc>
+  </programme>
+  <programme start="20210202004500 -0300" stop="20210202020000 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20210202020000 -0300" stop="20210202030000 -0300" channel="Canal 4 HD">
+    <title lang="es">De los labios al corazón</title>
+    <desc lang="es">Cuenta la historia de: Lamia, Kenan, Cemil y Cavidan, que vivirán complicadas relaciones y experiencias de triunfos y fracasos. Kenan, un talentoso músico y Lamia, una mujer pobre y huérfana, tienen un vínculo muy fuerte.(n)</desc>
+  </programme>
+  <programme start="20210202030000 -0300" stop="20210202060000 -0300" channel="Canal 4 HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.(n)</desc>
+  </programme>
+  <programme start="20210202060000 -0300" stop="20210202063000 -0300" channel="Canal 4 HD">
+    <title lang="es">Show de la fe</title>
+    <desc lang="es">Emisión de evangelización y enseñanza de la palabra de Dios en donde el Misionero RR Soares aclara dudas, orienta a personas que le piden consejos por cartas y abre espacio a quienes desean hablar acerca de la obra del Señor.(n)</desc>
+  </programme>
+  <programme start="20210202063000 -0300" stop="20210202070000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20210202070000 -0300" stop="20210202080000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía - Primera hora</title>
+    <desc lang="es">La mejor cobertura informativa todas las mañanas.(n)</desc>
+  </programme>
+  <programme start="20210202080000 -0300" stop="20210202100000 -0300" channel="Canal 4 HD">
+    <title lang="es">Buen día</title>
+    <desc lang="es">En Buen Día Uruguay se abordan una variedad de temas: noticias, actualidad, cultura, sociedad, salud, moda, deportes, cocina, hobbies, decoración, sexualidad, trucos e ideas para el hogar.(n)</desc>
+  </programme>
+  <programme start="20210202100000 -0300" stop="20210202103000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20210202103000 -0300" stop="20210202123000 -0300" channel="Canal 4 HD">
+    <title lang="es">Vamo arriba</title>
+    <desc lang="es">Actualidad, cocina y entretenimiento con Fede Paz, Andy Vila, El Rusito, Pablo Magno y Marcelo Bornio.Un programa que tiene todos los condimentos, entretenimiento, juegos con la gente, premios y plata.(n)</desc>
+  </programme>
+  <programme start="20210202123000 -0300" stop="20210202143000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía</title>
+    <desc lang="es">Todo lo que hay que saber, en una hora de noticias al mediodía. Lo más destacado del país y el mundo con la presentación de Yisela Moreira y Viviana Aguerre.(n)</desc>
+  </programme>
+  <programme start="20210202143000 -0300" stop="20210202161500 -0300" channel="Canal 4 HD">
+    <title lang="es">Algo contigo</title>
+    <desc lang="es">Todos los días te informamos de los acontecimientos y chimentos más importantes de la farándula local, regional e internacional.(n)</desc>
+  </programme>
+  <programme start="20210202161500 -0300" stop="20210202173000 -0300" channel="Canal 4 HD">
+    <title lang="es">Vespertinas</title>
+    <desc lang="es">Un talk show en el que cuatro mujeres de diferentes perfiles dará su punto de vista sobre diversos temas de actualidad. La charla será condimentada por la opinión de expertos, informes especiales y testimonios.(n)</desc>
+  </programme>
+  <programme start="20210202173000 -0300" stop="20210202180000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20210202180000 -0300" stop="20210202190000 -0300" channel="Canal 4 HD">
+    <title lang="es">Alas rotas</title>
+    <desc lang="es">Zeynep, Emre, Cemre y Aysun se quedan solos en la pobreza después de la muerte de su padre. Su motivación en la vida es su madre Nefise, quien hará cualquier cosa por su felicidad. Sin embargo, la familia pasará por momentos difíciles.(n)</desc>
+  </programme>
+  <programme start="20210202190000 -0300" stop="20210202211500 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20210202211500 -0300" stop="20210202221500 -0300" channel="Canal 4 HD">
+    <title lang="es">Minuto para ganar</title>
+    <desc lang="es">Los concursantes tendrán que enfrentar diferentes desafíos en tan solo un minuto cada uno y contarán con tres oportunidades, que irán perdiendo cada vez que no logren completar el juego en el tiempo estipulado.(n)</desc>
+  </programme>
+  <programme start="20210202221500 -0300" stop="20210202231500 -0300" channel="Canal 4 HD">
+    <title lang="es">Traición Secreta</title>
+    <desc lang="es">Yasemin trabaja en una agencia de publicidad. Estaba comprometida con Mehmet, pero una semana antes de su boda, encuentra a su novio en la cama con su mejor amiga.(n)</desc>
+  </programme>
+  <programme start="20210130203000 -0300" stop="20210130223000 -0300" channel="Canal 10 HD">
+    <title lang="es">Máximo riesgo</title>
+    <desc lang="es">Dispuesto a descubrir la verdad sobre su hermano gemelo, un soldado retirado se involucra con la mafia rusa. Una mujer lo ayudará en el caso.(n)</desc>
+  </programme>
+  <programme start="20210130223000 -0300" stop="20210130233000 -0300" channel="Canal 10 HD">
+    <title lang="es">Mejor con música</title>
+    <desc lang="es">Disfruta cada semana de los más grandes éxitos y artistas mundiales en un show musical, con la conducción de Valentina Barrios.(n)</desc>
+  </programme>
+  <programme start="20210130233000 -0300" stop="20210131003000 -0300" channel="Canal 10 HD">
+    <title lang="es">El legado</title>
+    <desc lang="es">Ciclo de entrevistas con inspiradoras historias de vida de personalidades uruguayas.(n)</desc>
+  </programme>
+  <programme start="20210131003000 -0300" stop="20210131013000 -0300" channel="Canal 10 HD">
+    <title lang="es">CSI Miami</title>
+    <desc lang="es">Los esfuerzos de un equipo de investigadores forenses para resolver la mayor cantidad de crímenes, usando métodos científicos de última tecnología así como también antiguo trabajo policiaco.(n)</desc>
+  </programme>
+  <programme start="20210131013000 -0300" stop="20210131070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20210131070000 -0300" stop="20210131073000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20210131073000 -0300" stop="20210131082500 -0300" channel="Canal 10 HD">
+    <title lang="es">Mejor con música</title>
+    <desc lang="es">Convertí tu sábado en una fiesta.(n)</desc>
+  </programme>
+  <programme start="20210131082500 -0300" stop="20210131083000 -0300" channel="Canal 10 HD">
+    <title lang="es">TV educativa - Primaria</title>
+    <desc lang="es">Un espacio educativo y cultural a cargo del Consejo de Educación Inicial y Primaria dedicado a difundir de todas las acciones institucionales. Conducido por María Inés Obaldía.(n)</desc>
+  </programme>
+  <programme start="20210131083000 -0300" stop="20210131090000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tecnovial</title>
+  </programme>
+  <programme start="20210131090000 -0300" stop="20210131100000 -0300" channel="Canal 10 HD">
+    <title lang="es">De pago en pago</title>
+    <desc lang="es">Las manifestaciones culturales de nuestro país en un programa que lo tiene todo: música, fiestas, tradiciones, costumbres, lugares y todo lo que hace a la identidad de nuestro país.(n)</desc>
+  </programme>
+  <programme start="20210131100000 -0300" stop="20210131143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Punto penal</title>
+    <desc lang="es">Punto Penal, "el clásico de los domingos.(n)</desc>
+  </programme>
+  <programme start="20210131143000 -0300" stop="20210131173000 -0300" channel="Canal 10 HD">
+    <title lang="es">Moby Dick</title>
+  </programme>
+  <programme start="20210131173000 -0300" stop="20210131181500 -0300" channel="Canal 10 HD">
+    <title lang="es">FBI</title>
+    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
+  </programme>
+  <programme start="20210131181500 -0300" stop="20210131190000 -0300" channel="Canal 10 HD">
+    <title lang="es">FBI</title>
+    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
+  </programme>
+  <programme start="20210131190000 -0300" stop="20210131210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20210131210000 -0300" stop="20210131223000 -0300" channel="Canal 10 HD">
+    <title lang="es">Polémica en el bar</title>
+    <desc lang="es">El espacio refleja la típica mesa de bar donde un grupo de amigos se encuentra en su café favorito para debatir los temas de la semana con humor, picardía e inteligencia. El programa tendrá actualidad, debate, invitados y momentos emotivos.(n)</desc>
+  </programme>
+  <programme start="20210131223000 -0300" stop="20210131233000 -0300" channel="Canal 10 HD">
+    <title lang="es">CSI: Miami</title>
+    <desc lang="es">Relata los esfuerzos de un equipo de investigadores forenses de La Florida, para resolver la mayor cantidad de crímenes, usando tanto métodos científicos de última tecnología así como antiguo trabajo policial.(n)</desc>
+  </programme>
+  <programme start="20210131233000 -0300" stop="20210201003000 -0300" channel="Canal 10 HD">
+    <title lang="es">CSI: Miami</title>
+    <desc lang="es">Un equipo de investigadores forenses se esfuerza en resolver la mayor cantidad de crímenes usando métodos científicos y el antiguo trabajo policial.(n)</desc>
+  </programme>
+  <programme start="20210201003000 -0300" stop="20210201023000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20210201023000 -0300" stop="20210201062000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20210201062000 -0300" stop="20210201063000 -0300" channel="Canal 10 HD">
+    <title lang="es">TV educativa - Primaria</title>
+    <desc lang="es">Un espacio educativo y cultural a cargo del Consejo de Educación Inicial y Primaria dedicado a difundir de todas las acciones institucionales. Conducido por María Inés Obaldía.(n)</desc>
+  </programme>
+  <programme start="20210201063000 -0300" stop="20210201070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La prestigiosa abogada de la televisión de habla hispana, Ana María Polo, resuelve las batallas personales y familiares más impactantes. El show toma rumbos inesperados cuando la Dra. Polo investiga a fondo la veracidad de los reclamos de sus invitados, antes de tomar su decisión final.(n)</desc>
+  </programme>
+  <programme start="20210201070000 -0300" stop="20210201080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
+  </programme>
+  <programme start="20210201080000 -0300" stop="20210201103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20210201103000 -0300" stop="20210201123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20210201123000 -0300" stop="20210201143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20210201143000 -0300" stop="20210201150000 -0300" channel="Canal 10 HD">
+    <title lang="es">Blue Bloods</title>
+    <desc lang="es">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
+  </programme>
+  <programme start="20210201150000 -0300" stop="20210201163000 -0300" channel="Canal 10 HD">
+    <title lang="es">Blue Bloods</title>
+    <desc lang="es">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
+  </programme>
+  <programme start="20210201163000 -0300" stop="20210201171500 -0300" channel="Canal 10 HD">
+    <title lang="es">CSI Miami</title>
+    <desc lang="es">Los esfuerzos de un equipo de investigadores forenses para resolver la mayor cantidad de crímenes, usando métodos científicos de última tecnología así como también antiguo trabajo policiaco.(n)</desc>
+  </programme>
+  <programme start="20210201171500 -0300" stop="20210201180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Resumen - ¿Y tú quién eres</title>
+    <desc lang="es">Resumen de la novela que cuenta la historia de Eyce, una niña de ocho años que vive con su tía hasta que ella desaparece y solo le da el nombre de su padre para que lo encuentre.(n)</desc>
+  </programme>
+  <programme start="20210201180000 -0300" stop="20210201190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Meryem</title>
+    <desc lang="es">A raíz de un accidente, una chica ingenua se encuentra dividida entre un fiscal sin escrúpulos y un demandante vengativo.(n)</desc>
+  </programme>
+  <programme start="20210201190000 -0300" stop="20210201210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20210201210000 -0300" stop="20210201230000 -0300" channel="Canal 10 HD">
+    <title lang="es">El tesoro del Amazonas</title>
+    <desc lang="es">Un experto cazarrecompensas se interna en el Amazonas, con un grupo a su cargo, para rescatar al hijo de un jefe de la mafia.(n)</desc>
+  </programme>
+  <programme start="20210201230000 -0300" stop="20210201233000 -0300" channel="Canal 10 HD">
+    <title lang="es">¿Y tú quién eres</title>
+    <desc lang="es">Eyce, una niña de ocho años, vive con su tía hasta que ella desaparece y solo le da el nombre de su padre para que lo encuentre. Cuando lo localiza, descubre que es un irresponsable estafador de poca monta llamado Demir.(n)</desc>
+  </programme>
+  <programme start="20210201233000 -0300" stop="20210202003000 -0300" channel="Canal 10 HD">
+    <title lang="es">Jesús</title>
+    <desc lang="es">Después de recibir el anuncio de la llegada del hijo de Dios, María y José deciden crear a un hombre con valores. Esto incomoda al Rey Herodes, quien comienza a perseguir a la familia para desviar al joven de su misión.(n)</desc>
+  </programme>
+  <programme start="20210202003000 -0300" stop="20210202023000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20210202023000 -0300" stop="20210202030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Meryem</title>
+    <desc lang="es">A raíz de un accidente, una chica ingenua se encuentra dividida entre un fiscal sin escrúpulos y un demandante vengativo.(n)</desc>
+  </programme>
+  <programme start="20210202030000 -0300" stop="20210202040000 -0300" channel="Canal 10 HD">
+    <title lang="es">Jesús</title>
+    <desc lang="es">Después de recibir el anuncio de la llegada del hijo de Dios, María y José deciden crear a un hombre con valores. Esto incomoda al Rey Herodes, quien comienza a perseguir a la familia para desviar al joven de su misión.(n)</desc>
+  </programme>
+  <programme start="20210202040000 -0300" stop="20210202063000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20210202063000 -0300" stop="20210202070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La prestigiosa abogada de la televisión de habla hispana, Ana María Polo, resuelve las batallas personales y familiares más impactantes. El show toma rumbos inesperados cuando la Dra. Polo investiga a fondo la veracidad de los reclamos de sus invitados, antes de tomar su decisión final.(n)</desc>
+  </programme>
+  <programme start="20210202070000 -0300" stop="20210202080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
+  </programme>
+  <programme start="20210202080000 -0300" stop="20210202103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20210202103000 -0300" stop="20210202123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20210202123000 -0300" stop="20210202143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20210202143000 -0300" stop="20210202150000 -0300" channel="Canal 10 HD">
+    <title lang="es">Blue Bloods</title>
+    <desc lang="es">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
+  </programme>
+  <programme start="20210202150000 -0300" stop="20210202163000 -0300" channel="Canal 10 HD">
+    <title lang="es">Blue Bloods</title>
+    <desc lang="es">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
+  </programme>
+  <programme start="20210202163000 -0300" stop="20210202171500 -0300" channel="Canal 10 HD">
+    <title lang="es">CSI Miami</title>
+    <desc lang="es">Los esfuerzos de un equipo de investigadores forenses para resolver la mayor cantidad de crímenes, usando métodos científicos de última tecnología así como también antiguo trabajo policiaco.(n)</desc>
+  </programme>
+  <programme start="20210202171500 -0300" stop="20210202180000 -0300" channel="Canal 10 HD">
+    <title lang="es">¿Y tú quién eres</title>
+    <desc lang="es">Eyce, una niña de ocho años, vive con su tía hasta que ella desaparece y solo le da el nombre de su padre para que lo encuentre. Cuando lo localiza, descubre que es un irresponsable estafador de poca monta llamado Demir.(n)</desc>
+  </programme>
+  <programme start="20210202180000 -0300" stop="20210202190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Meryem</title>
+    <desc lang="es">A raíz de un accidente, una chica ingenua se encuentra dividida entre un fiscal sin escrúpulos y un demandante vengativo.(n)</desc>
+  </programme>
+  <programme start="20210202190000 -0300" stop="20210202210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20210202210000 -0300" stop="20210202230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">En cada emisión, se enfrentarán dos equipos integrados por participantes del público, acompañados por los famosos más queridos del Uruguay - personajes del mundo del espectáculo, las artes, el deporte y los medios de comunicación.(n)</desc>
+  </programme>
+  <programme start="20210202230000 -0300" stop="20210202233000 -0300" channel="Canal 10 HD">
+    <title lang="es">¿Y tú quién eres</title>
+    <desc lang="es">Eyce, una niña de ocho años, vive con su tía hasta que ella desaparece y solo le da el nombre de su padre para que lo encuentre. Cuando lo localiza, descubre que es un irresponsable estafador de poca monta llamado Demir.(n)</desc>
+  </programme>
+  <programme start="20210130203000 -0300" stop="20210130220000 -0300" channel="La Tele HD">
+    <title lang="es">8 minutos antes de morir</title>
+    <desc lang="es">A un héroe de guerra viaja a través del tiempo durante sólo 8 minutos para evitar el estallido de una bomba en un tren con dirección a Chicago.(n)</desc>
+  </programme>
+  <programme start="20210130220000 -0300" stop="20210131001500 -0300" channel="La Tele HD">
+    <title lang="es">Leyenda: La profesión de la violencia</title>
+    <desc lang="es">Años 60. Los gemelos Ronald y Reginald Kray son los gánsteres más temidos de Londres. Ronnie es un homosexual esquizofrénico distante; Reggie es carismático y quiere conquistar a Frances. Juntos son ambiciosos, poderosos? ¿invencibles.(n)</desc>
+  </programme>
+  <programme start="20210131001500 -0300" stop="20210131021000 -0300" channel="La Tele HD">
+    <title lang="es">Por encima de la ley</title>
+    <desc lang="es">Mientras Frank Valken comete un robo fabuloso, un comando de asesinos entra en acción y ejecuta a todos los testigos. Entre los cadáveres se encuentra el de la magistrada que está investigando el caso de los asesinos locos.(n)</desc>
+  </programme>
+  <programme start="20210131021000 -0300" stop="20210131030000 -0300" channel="La Tele HD">
+    <title lang="es">Revelaciones</title>
+  </programme>
+  <programme start="20210131030000 -0300" stop="20210131031000 -0300" channel="La Tele HD">
+    <title lang="es">Revelaciones</title>
+  </programme>
+  <programme start="20210131031000 -0300" stop="20210131071500 -0300" channel="La Tele HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210131071500 -0300" stop="20210131081500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20210131081500 -0300" stop="20210131090000 -0300" channel="La Tele HD">
+    <title lang="es">Chicago Med</title>
+    <desc lang="es">Cuando el Dr. Connor Rhodes toma el caso de un amigo íntimo de la familia que ha sido herido con esquirlas de vidrio, se vuelve a encontrar con su hermana, Claire Rhodes, y se ve obligado a enfrentarse a su pasado.(n)</desc>
+  </programme>
+  <programme start="20210131090000 -0300" stop="20210131103000 -0300" channel="La Tele HD">
+    <title lang="es">Americando</title>
+    <desc lang="es">Cuando la historia es relato vivo de nuestra identidad.(n)</desc>
+  </programme>
+  <programme start="20210131103000 -0300" stop="20210131140000 -0300" channel="La Tele HD">
+    <title lang="es">Polideportivo</title>
+    <desc lang="es">Vuelve el clásico de los domingos con los especialistas en cada deporte. Todo el fútbol local e internacional, información, mesa de debate, móviles en vivoy entrevistas a los protagonistas.(n)</desc>
+  </programme>
+  <programme start="20210131140000 -0300" stop="20210131154500 -0300" channel="La Tele HD">
+    <title lang="es">Grace rumbo al éxito</title>
+    <desc lang="es">Grace disfruta hornear ricos postres en la vieja pastelería de sus abuelos y piensa vender pastelillos en el verano para comprar una bicicleta.(n)</desc>
+  </programme>
+  <programme start="20210131154500 -0300" stop="20210131173000 -0300" channel="La Tele HD">
+    <title lang="es">Z for Zachariah</title>
+    <desc lang="es">Como resultado de un desastre que elimina la mayor parte de la civilización, dos hombres y una joven se encuentran en un triángulo amoroso cargado de emoción ya que son los últimos supervivientes conocidos.(n)</desc>
+  </programme>
+  <programme start="20210131173000 -0300" stop="20210131190000 -0300" channel="La Tele HD">
+    <title lang="es">Sully, hazaña en el Hudson</title>
+    <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.(n)</desc>
+  </programme>
+  <programme start="20210131190000 -0300" stop="20210131210000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo dominical</title>
+    <desc lang="es">Un análisis profundo y detallado sobre la devaluación de la moneda, inflación y mucho más, junto a los principales titulares de economía. Telemundo dominical se instala como el informativo central más visto.(n)</desc>
+  </programme>
+  <programme start="20210131210000 -0300" stop="20210131220000 -0300" channel="La Tele HD">
+    <title lang="es">Súbete a mi moto</title>
+    <desc lang="es">Rafa Villanueva nos llevará a recorrer nuestro país con su humor y su buena onda.(n)</desc>
+  </programme>
+  <programme start="20210131220000 -0300" stop="20210131220500 -0300" channel="La Tele HD">
+    <title lang="es">Sorteo del 5 de oro</title>
+    <desc lang="es">Lotería en la que se anuncian los números ganadores del par millonario, triples y terminales, para que pruebes tu suerte y ganes al instante.(n)</desc>
+  </programme>
+  <programme start="20210131220500 -0300" stop="20210131233000 -0300" channel="La Tele HD">
+    <title lang="es">La culpa es de Colón</title>
+    <desc lang="es">Cinco hombres y cinco mujeres comediantes se enfrentan para debatir, confesar y filosofar sobre el sexo opuesto... con picardía y humor.(n)</desc>
+  </programme>
+  <programme start="20210131233000 -0300" stop="20210201001500 -0300" channel="La Tele HD">
+    <title lang="es">New Amsterdam</title>
+    <desc lang="es">El New Amsterdam se encuentra en una mala situación tanto económica como de reputación. Esto cambiará con la llegada del Dr. Max Goodwin, el nuevo director médico que se propone romper con la burocracia y brindar una atención excepcional.(n)</desc>
+  </programme>
+  <programme start="20210201001500 -0300" stop="20210201010000 -0300" channel="La Tele HD">
+    <title lang="es">Hawaii-Five-O</title>
+    <desc lang="es">Cuando asesinan a un periodista, el equipo recurre a sus coberturas informativas para hallar a un caudillo congoleño oculto en Oahu. Danny tiene una reacción exagerada cuando, por error, recibe los mensajes que Grace le envió a un muchacho.(n)</desc>
+  </programme>
+  <programme start="20210201010000 -0300" stop="20210201023000 -0300" channel="La Tele HD">
+    <title lang="es">Revelaciones</title>
+  </programme>
+  <programme start="20210201023000 -0300" stop="20210201055500 -0300" channel="La Tele HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210201055500 -0300" stop="20210201065500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20210201065500 -0300" stop="20210201080000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo de mañana</title>
+    <desc lang="es">Telemundo de mañana, una forma amena de informarse de lo que hay que saber para salir de casa.(n)</desc>
+  </programme>
+  <programme start="20210201080000 -0300" stop="20210201100000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos Informales - Primera Mañana</title>
+    <desc lang="es">La mañana de La Tele se renueva con Desayunos Informales, una propuesta diferente para arrancar el día de la mejor manera.(n)</desc>
+  </programme>
+  <programme start="20210201100000 -0300" stop="20210201120000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Segunda mañana</title>
+    <desc lang="es">Victoria Zangaro y Jorge "Coco" Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.(n)</desc>
+  </programme>
+  <programme start="20210201120000 -0300" stop="20210201123000 -0300" channel="La Tele HD">
+    <title lang="es">La receta</title>
+    <desc lang="es">Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.(n)</desc>
+  </programme>
+  <programme start="20210201123000 -0300" stop="20210201143000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo mediodía</title>
+    <desc lang="es">Resumen informativo de las noticias del día.(n)</desc>
+  </programme>
+  <programme start="20210201143000 -0300" stop="20210201161500 -0300" channel="La Tele HD">
+    <title lang="es">Esta boca es mía</title>
+    <desc lang="es">Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado. Para hablar y debatir sobre los temas que nos interesan a todos.(n)</desc>
+  </programme>
+  <programme start="20210201161500 -0300" stop="20210201180000 -0300" channel="La Tele HD">
+    <title lang="es">Los ángeles de la mañana</title>
+    <desc lang="es">La información más completa del espectáculo y el abordaje de los temas preponderantes de la actualidad nacional, que marcan la agenda del día. Con entrevistas, móviles, informes especiales, entretenimiento y destacadas figuras invitadas.(n)</desc>
+  </programme>
+  <programme start="20210201180000 -0300" stop="20210201185500 -0300" channel="La Tele HD">
+    <title lang="es">Bom sucesso</title>
+    <desc lang="es">Los estudios de Paloma y Alberto son intercambiados. Ella cree que tiene solo seis meses de vida y él cree que está curado. Cuando surge el diagnóstico real, Paloma decide ir tras Alberto para construir una nueva amistad.(n)</desc>
+  </programme>
+  <programme start="20210201185500 -0300" stop="20210201211500 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo edición central</title>
+  </programme>
+  <programme start="20210201211500 -0300" stop="20210201221500 -0300" channel="La Tele HD">
+    <title lang="es">Poné Play</title>
+    <desc lang="es">La música revoluciona la pantalla de La Tele con el programa de entretenimiento que desafía los conocimientos musicales de participantes y famosos.(n)</desc>
+  </programme>
+  <programme start="20210201221500 -0300" stop="20210201223000 -0300" channel="La Tele HD">
+    <title lang="es">Isla de Hierro</title>
+    <desc lang="es">En una plataforma petrolífera, Dante, el coordinador de producción de la plataforma, es un hombre explosivo que ve como su vida se desmorona entre el agitado ambiente en alta mar y sus dilemas familiares en tierra firme.(n)</desc>
+  </programme>
+  <programme start="20210201223000 -0300" stop="20210201233000 -0300" channel="La Tele HD">
+    <title lang="es">La culpa es de Colón</title>
+    <desc lang="es">Cinco hombres y cinco mujeres comediantes se enfrentan para debatir, confesar y filosofar sobre el sexo opuesto... con picardía y humor.(n)</desc>
+  </programme>
+  <programme start="20210201233000 -0300" stop="20210202001500 -0300" channel="La Tele HD">
+    <title lang="es">Isla de Hierro</title>
+    <desc lang="es">En una plataforma petrolífera, Dante, el coordinador de producción de la plataforma, es un hombre explosivo que ve como su vida se desmorona entre el agitado ambiente en alta mar y sus dilemas familiares en tierra firme.(n)</desc>
+  </programme>
+  <programme start="20210202001500 -0300" stop="20210202011500 -0300" channel="La Tele HD">
+    <title lang="es">Verdades secretas</title>
+    <desc lang="es">El submundo que se esconde debajo del glamour de la moda, el lujo y el dinero se revela en la historia de Arlette, en esta novela de Walcyr Carrasco.(n)</desc>
+  </programme>
+  <programme start="20210202011500 -0300" stop="20210202023000 -0300" channel="La Tele HD">
+    <title lang="es">Revelaciones</title>
+  </programme>
+  <programme start="20210202023000 -0300" stop="20210202055500 -0300" channel="La Tele HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210202055500 -0300" stop="20210202065500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20210202065500 -0300" stop="20210202080000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo de mañana</title>
+    <desc lang="es">Telemundo de mañana, una forma amena de informarse de lo que hay que saber para salir de casa.(n)</desc>
+  </programme>
+  <programme start="20210202080000 -0300" stop="20210202100000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos Informales - Primera Mañana</title>
+    <desc lang="es">La mañana de La Tele se renueva con Desayunos Informales, una propuesta diferente para arrancar el día de la mejor manera.(n)</desc>
+  </programme>
+  <programme start="20210202100000 -0300" stop="20210202120000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Segunda mañana</title>
+    <desc lang="es">Victoria Zangaro y Jorge "Coco" Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.(n)</desc>
+  </programme>
+  <programme start="20210202120000 -0300" stop="20210202123000 -0300" channel="La Tele HD">
+    <title lang="es">La receta</title>
+    <desc lang="es">Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.(n)</desc>
+  </programme>
+  <programme start="20210202123000 -0300" stop="20210202143000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo mediodía</title>
+    <desc lang="es">Resumen informativo de las noticias del día.(n)</desc>
+  </programme>
+  <programme start="20210202143000 -0300" stop="20210202161500 -0300" channel="La Tele HD">
+    <title lang="es">Esta boca es mía</title>
+    <desc lang="es">Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado. Para hablar y debatir sobre los temas que nos interesan a todos.(n)</desc>
+  </programme>
+  <programme start="20210202161500 -0300" stop="20210202180000 -0300" channel="La Tele HD">
+    <title lang="es">Los ángeles de la mañana</title>
+    <desc lang="es">La información más completa del espectáculo y el abordaje de los temas preponderantes de la actualidad nacional, que marcan la agenda del día. Con entrevistas, móviles, informes especiales, entretenimiento y destacadas figuras invitadas.(n)</desc>
+  </programme>
+  <programme start="20210202180000 -0300" stop="20210202185500 -0300" channel="La Tele HD">
+    <title lang="es">Bom sucesso</title>
+    <desc lang="es">Los estudios de Paloma y Alberto son intercambiados. Ella cree que tiene solo seis meses de vida y él cree que está curado. Cuando surge el diagnóstico real, Paloma decide ir tras Alberto para construir una nueva amistad.(n)</desc>
+  </programme>
+  <programme start="20210202185500 -0300" stop="20210202211500 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo edición central</title>
+  </programme>
+  <programme start="20210202211500 -0300" stop="20210202223000 -0300" channel="La Tele HD">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">En cada programa tres concursantes se enfrentan a diferentes paneles, eligiendo consonantes y comprando vocales, para resolver refranes y frases comunes y así conseguir acumular premios y poder llegar a ganar un auto 0km.(n)</desc>
+  </programme>
+  <programme start="20210202223000 -0300" stop="20210202233000 -0300" channel="La Tele HD">
+    <title lang="es">La culpa es de Colón</title>
+    <desc lang="es">Cinco hombres y cinco mujeres comediantes se enfrentan para debatir, confesar y filosofar sobre el sexo opuesto... con picardía y humor.(n)</desc>
+  </programme>
+  <programme start="20210130210000 -0300" stop="20210130230000 -0300" channel="VTV + HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210130230000 -0300" stop="20210131010000 -0300" channel="VTV + HD">
+    <title lang="es">Progreso vs. Liverpool, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131010000 -0300" stop="20210131030000 -0300" channel="VTV + HD">
+    <title lang="es">Deportivo Maldonado vs. Rentistas, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131030000 -0300" stop="20210131050000 -0300" channel="VTV + HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131050000 -0300" stop="20210131070000 -0300" channel="VTV + HD">
+    <title lang="es">Especial - Campeones uruguayos. Danubio 2006-2007</title>
+  </programme>
+  <programme start="20210131070000 -0300" stop="20210131090000 -0300" channel="VTV + HD">
+    <title lang="es">Fútbol uruguayo - Segunda División. Rampla vs. Sud América, Final - Vuelta</title>
+    <desc lang="es">Los emocionantes partidos de la liga de fútbol uruguaya en su segunda división donde grandes equipos se disputan este anhelado torneo, que significa su oportunidad para ascender a la primera categoría del balompié nacional.(n)</desc>
+  </programme>
+  <programme start="20210131090000 -0300" stop="20210131100000 -0300" channel="VTV + HD">
+    <title lang="es">Especial - Campeones uruguayos. Defensor 2007-2008</title>
+  </programme>
+  <programme start="20210131100000 -0300" stop="20210131120000 -0300" channel="VTV + HD">
+    <title lang="es">Colón vs. Albión, Repechaje vuelta. Primera División Amateur</title>
+    <desc lang="es">La primera división amateur, inicialmente conocida como segunda b nacional y popularmente llamada como la c, es el torneo de tercera categoría del fútbol uruguayo, organizado por la asociación uruguaya de fútbol.(n)</desc>
+  </programme>
+  <programme start="20210131120000 -0300" stop="20210131140000 -0300" channel="VTV + HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131140000 -0300" stop="20210131160000 -0300" channel="VTV + HD">
+    <title lang="es">Progreso vs. Liverpool, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131160000 -0300" stop="20210131170000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo</title>
+    <desc lang="es">La previa de los partidos del Campeonato Uruguayo 2021, un torneo de primera división del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20210131170000 -0300" stop="20210131190000 -0300" channel="VTV + HD">
+    <title lang="es">Danubio vs. Peñarol, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131190000 -0300" stop="20210131191500 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo</title>
+    <desc lang="es">La previa de los partidos del Campeonato Uruguayo 2021, un torneo de primera división del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20210131191500 -0300" stop="20210131211500 -0300" channel="VTV + HD">
+    <title lang="es">Cerro vs. Montevideo City Torque, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131211500 -0300" stop="20210131213000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo</title>
+    <desc lang="es">La previa de los partidos del Campeonato Uruguayo 2021, un torneo de primera división del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20210131213000 -0300" stop="20210131233000 -0300" channel="VTV + HD">
+    <title lang="es">Defensor Sporting vs. River Plate, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131233000 -0300" stop="20210201003000 -0300" channel="VTV + HD">
+    <title lang="es">Post partido - Campeonato uruguayo</title>
+    <desc lang="es">El post del campeonato de uruguayo que cuenta con información de interés.(n)</desc>
+  </programme>
+  <programme start="20210201003000 -0300" stop="20210201023000 -0300" channel="VTV + HD">
+    <title lang="es">Colón vs. Albión, Repechaje vuelta. Primera División Amateur</title>
+    <desc lang="es">La primera división amateur, inicialmente conocida como segunda b nacional y popularmente llamada como la c, es el torneo de tercera categoría del fútbol uruguayo, organizado por la asociación uruguaya de fútbol.(n)</desc>
+  </programme>
+  <programme start="20210201023000 -0300" stop="20210201030000 -0300" channel="VTV + HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20210201030000 -0300" stop="20210201050000 -0300" channel="VTV + HD">
+    <title lang="es">Fénix vs. Plaza Colonia, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201050000 -0300" stop="20210201070000 -0300" channel="VTV + HD">
+    <title lang="es">Especial - Campeones uruguayos. Danubio 2006-2007</title>
+  </programme>
+  <programme start="20210201070000 -0300" stop="20210201090000 -0300" channel="VTV + HD">
+    <title lang="es">Deportivo Maldonado vs. Rentistas, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201090000 -0300" stop="20210201110000 -0300" channel="VTV + HD">
+    <title lang="es">Progreso vs. Liverpool, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201110000 -0300" stop="20210201130000 -0300" channel="VTV + HD">
+    <title lang="es">Cerro vs. Montevideo City Torque, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201130000 -0300" stop="20210201150000 -0300" channel="VTV + HD">
+    <title lang="es">Defensor Sporting vs. River Plate, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201150000 -0300" stop="20210201170000 -0300" channel="VTV + HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201170000 -0300" stop="20210201190000 -0300" channel="VTV + HD">
+    <title lang="es">Boston River vs. Cerro Largo, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201190000 -0300" stop="20210201210000 -0300" channel="VTV + HD">
+    <title lang="es">Danubio vs. Peñarol, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201210000 -0300" stop="20210201223000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210201223000 -0300" stop="20210202003000 -0300" channel="VTV + HD">
+    <title lang="es">Fútbol uruguayo - Segunda División. Rampla vs. Sud América, Final - Vuelta</title>
+    <desc lang="es">Los emocionantes partidos de la liga de fútbol uruguaya en su segunda división donde grandes equipos se disputan este anhelado torneo, que significa su oportunidad para ascender a la primera categoría del balompié nacional.(n)</desc>
+  </programme>
+  <programme start="20210202003000 -0300" stop="20210202020000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210202020000 -0300" stop="20210202040000 -0300" channel="VTV + HD">
+    <title lang="es">Boston River vs. Cerro Largo, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202040000 -0300" stop="20210202060000 -0300" channel="VTV + HD">
+    <title lang="es">Progreso vs. Liverpool, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202060000 -0300" stop="20210202080000 -0300" channel="VTV + HD">
+    <title lang="es">Cerro vs. Montevideo City Torque, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202080000 -0300" stop="20210202083000 -0300" channel="VTV + HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+    <desc lang="es">Miguel Pastorino te propone disfrutar y recordar con emoción los mejores recuerdos de encuentros memorables del fútbol. Un espacio para revivir esos grandes partidos que, para muchos, son inolvidables.(n)</desc>
+  </programme>
+  <programme start="20210202083000 -0300" stop="20210202100000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210202100000 -0300" stop="20210202120000 -0300" channel="VTV + HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202120000 -0300" stop="20210202140000 -0300" channel="VTV + HD">
+    <title lang="es">Danubio vs. Peñarol, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202140000 -0300" stop="20210202150000 -0300" channel="VTV + HD">
+    <title lang="es">Fechas pasadas. Especial - Finales básquet</title>
+    <desc lang="es">Miguel Pastorino te propone disfrutar y recordar con emoción los mejores recuerdos de encuentros memorables del fútbol. Un espacio para revivir esos grandes partidos que, para muchos, son inolvidables.(n)</desc>
+  </programme>
+  <programme start="20210202150000 -0300" stop="20210202170000 -0300" channel="VTV + HD">
+    <title lang="es">Fútbol uruguayo - Segunda División. Rampla vs. Sud América, Final - Vuelta</title>
+    <desc lang="es">Los emocionantes partidos de la liga de fútbol uruguaya en su segunda división donde grandes equipos se disputan este anhelado torneo, que significa su oportunidad para ascender a la primera categoría del balompié nacional.(n)</desc>
+  </programme>
+  <programme start="20210202170000 -0300" stop="20210202171500 -0300" channel="VTV + HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20210202171500 -0300" stop="20210202173000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo</title>
+    <desc lang="es">La previa de los partidos del Campeonato Uruguayo 2021, un torneo de primera división del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20210202173000 -0300" stop="20210202193000 -0300" channel="VTV + HD">
+    <title lang="es">Progreso vs. Fénix, Fecha 4. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202193000 -0300" stop="20210202194500 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo</title>
+    <desc lang="es">La previa de los partidos del Campeonato Uruguayo 2021, un torneo de primera división del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20210202194500 -0300" stop="20210202220000 -0300" channel="VTV + HD">
+    <title lang="es">Cerro Largo vs. Deportivo Maldonado, Fecha 4. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202220000 -0300" stop="20210202233000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210130210000 -0300" stop="20210130230000 -0300" channel="VTV HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210130230000 -0300" stop="20210131000000 -0300" channel="VTV HD">
+    <title lang="es">Días de Gloria</title>
+    <desc lang="es">"Días de Gloria" es el programa que recuerda los mejores oldies con la conducción de Nacho Rius.(n)</desc>
+  </programme>
+  <programme start="20210131000000 -0300" stop="20210131030000 -0300" channel="VTV HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20210131030000 -0300" stop="20210131040000 -0300" channel="VTV HD">
+    <title lang="es">Cicerone</title>
+    <desc lang="es">Revista televisiva que cada semana incluye informes de turismo nacional, internacional, moda, belleza, eventos sociales, empresariales, fiestas, gastronomía, música, cine, teatro y deportes.(n)</desc>
+  </programme>
+  <programme start="20210131040000 -0300" stop="20210131060000 -0300" channel="VTV HD">
+    <title lang="es">Baby deportivo</title>
+    <desc lang="es">Los sábados a la mañana, dos horas junto a los más chicos para recorrer el mundo de los deportes en sus distintas modalidades y categorías. Un programa entretenida y didáctica para disfrutar aprendiendo.(n)</desc>
+  </programme>
+  <programme start="20210131060000 -0300" stop="20210131070000 -0300" channel="VTV HD">
+    <title lang="es">Fanáticos. MLS - Parte 1</title>
+    <desc lang="es">“JC” recorre el mundo entrando en los clubes más importantes del fútbol del planeta, y entrevistando a las principales figuras del fútbol mundial, de hoy y de siempre.(n)</desc>
+  </programme>
+  <programme start="20210131070000 -0300" stop="20210131090000 -0300" channel="VTV HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131090000 -0300" stop="20210131103000 -0300" channel="VTV HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20210131103000 -0300" stop="20210131110000 -0300" channel="VTV HD">
+    <title lang="es">Danzas TV</title>
+    <desc lang="es">En Uruguay existe un gran número de escuelas de danzas, las cuales cuentan con un excelente nivel. Estos grandes resultados son fruto del alto nivel que tienen profesoras y alumnas de este arte, creando valores humanos y compañerismo.(n)</desc>
+  </programme>
+  <programme start="20210131110000 -0300" stop="20210131120000 -0300" channel="VTV HD">
+    <title lang="es">Ferias y mercados</title>
+    <desc lang="es">Ferias y Mercados tiene como tema central y excluyente, los negocios, el comercio, la industria, las exportaciones pero también la generación de empleo y la salud laboral.(n)</desc>
+  </programme>
+  <programme start="20210131120000 -0300" stop="20210131130000 -0300" channel="VTV HD">
+    <title lang="es">Periplo</title>
+    <desc lang="es">Anahí, una cámara, muchos amigos por conocer y cientos de kilómetros para recorrer juntos. Gastronomía, turismo, paisajes y curiosidades de nuestro paìs forman parte de este Periplo por Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210131130000 -0300" stop="20210131143000 -0300" channel="VTV HD">
+    <title lang="es">Rumbo a la cancha</title>
+    <desc lang="es">Los ídolos del fútbol, el basketball y el carnaval comparten junto a los espectadores su vida, anécdotas, experiencias, triunfos y derrotas, dando a conocer sus tres principales pasiones.(n)</desc>
+  </programme>
+  <programme start="20210131143000 -0300" stop="20210131150000 -0300" channel="VTV HD">
+    <title lang="es">Free Time</title>
+    <desc lang="es">Free Time es un programa que busca un enfoque distinto de las entrevistas y apunta al entretenimiento de los televidentes a través de consignas y juegos con una importante animación desde el punto de vista de la edición.(n)</desc>
+  </programme>
+  <programme start="20210131150000 -0300" stop="20210131160000 -0300" channel="VTV HD">
+    <title lang="es">Periplo</title>
+    <desc lang="es">Anahí, una cámara, muchos amigos por conocer y cientos de kilómetros para recorrer juntos. Gastronomía, turismo, paisajes y curiosidades de nuestro paìs forman parte de este Periplo por Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210131160000 -0300" stop="20210131170000 -0300" channel="VTV HD">
+    <title lang="es">Previa - Campeonato uruguayo</title>
+    <desc lang="es">La previa de los partidos del Campeonato Uruguayo 2021, un torneo de primera división del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20210131170000 -0300" stop="20210131190000 -0300" channel="VTV HD">
+    <title lang="es">Danubio vs. Peñarol, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131190000 -0300" stop="20210131193000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20210131193000 -0300" stop="20210131211500 -0300" channel="VTV HD">
+    <title lang="es">Voces anónimas</title>
+    <desc lang="es">Guillermo Lockhart te presenta una nueva forma de acercarte a historias increíbles, llenas de misterio y suspenso, acerca de leyendas y mitos urbanos, donde se cuenta el drama, el terror y el suspenso vividos por sus protagonistas.(n)</desc>
+  </programme>
+  <programme start="20210131211500 -0300" stop="20210131213000 -0300" channel="VTV HD">
+    <title lang="es">Previa - Campeonato uruguayo</title>
+    <desc lang="es">La previa de los partidos del Campeonato Uruguayo 2021, un torneo de primera división del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20210131213000 -0300" stop="20210131233000 -0300" channel="VTV HD">
+    <title lang="es">Defensor Sporting vs. River Plate, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210131233000 -0300" stop="20210201003000 -0300" channel="VTV HD">
+    <title lang="es">Post partido - Campeonato uruguayo</title>
+    <desc lang="es">El post del campeonato de uruguayo que cuenta con información de interés.(n)</desc>
+  </programme>
+  <programme start="20210201003000 -0300" stop="20210201023000 -0300" channel="VTV HD">
+    <title lang="es">Nacional vs. Montevideo Wanderers, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210201023000 -0300" stop="20210201043000 -0300" channel="VTV HD">
+    <title lang="es">Baby deportivo</title>
+    <desc lang="es">Los sábados a la mañana, dos horas junto a los más chicos para recorrer el mundo de los deportes en sus distintas modalidades y categorías. Un programa entretenida y didáctica para disfrutar aprendiendo.(n)</desc>
+  </programme>
+  <programme start="20210201043000 -0300" stop="20210201060000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas clásicos</title>
+    <desc lang="es">Un espacio para recordar con emoción los encuentros de fútbol uruguayo de jornadas anteriores, para revivir esos grandes partidos que, para muchos, son inolvidables.(n)</desc>
+  </programme>
+  <programme start="20210201060000 -0300" stop="20210201070000 -0300" channel="VTV HD">
+    <title lang="es">Cámara Celeste</title>
+    <desc lang="es">La popular creación de Sergio Gorzy que esta donde juegue Uruguay, “no importa en que cancha juguemos a la celeste la sigo a donde va”.(n)</desc>
+  </programme>
+  <programme start="20210201070000 -0300" stop="20210201080000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
+  </programme>
+  <programme start="20210201080000 -0300" stop="20210201090000 -0300" channel="VTV HD">
+    <title lang="es">Ferias y mercados</title>
+    <desc lang="es">Ferias y Mercados tiene como tema central y excluyente, los negocios, el comercio, la industria, las exportaciones pero también la generación de empleo y la salud laboral.(n)</desc>
+  </programme>
+  <programme start="20210201090000 -0300" stop="20210201100000 -0300" channel="VTV HD">
+    <title lang="es">Días de Gloria</title>
+    <desc lang="es">"Días de Gloria" es el programa que recuerda los mejores oldies con la conducción de Nacho Rius.(n)</desc>
+  </programme>
+  <programme start="20210201100000 -0300" stop="20210201110000 -0300" channel="VTV HD">
+    <title lang="es">Periplo</title>
+    <desc lang="es">Anahí, una cámara, muchos amigos por conocer y cientos de kilómetros para recorrer juntos. Gastronomía, turismo, paisajes y curiosidades de nuestro paìs forman parte de este Periplo por Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210201110000 -0300" stop="20210201113000 -0300" channel="VTV HD">
+    <title lang="es">Danzas TV</title>
+    <desc lang="es">En Uruguay existe un gran número de escuelas de danzas, las cuales cuentan con un excelente nivel. Estos grandes resultados son fruto del alto nivel que tienen profesoras y alumnas de este arte, creando valores humanos y compañerismo.(n)</desc>
+  </programme>
+  <programme start="20210201113000 -0300" stop="20210201120000 -0300" channel="VTV HD">
+    <title lang="es">Movete en casa</title>
+    <desc lang="es">El ejercicio en casa es una buena manera de combatir la ansiedad y el estrés con el que muchos viven esta pandemia y mejorar nuestra calidad de vida.(n)</desc>
+  </programme>
+  <programme start="20210201120000 -0300" stop="20210201130000 -0300" channel="VTV HD">
+    <title lang="es">Iglesia universal del reino de Dios</title>
+    <desc lang="es">Emisión en la que podrás experimentar un encuentro diferente con el Señor a través de predicas del evangelio realizadas por pastores, enseñanzas y consejos útiles que edificaran tu alma y aumentaran tu fe.(n)</desc>
+  </programme>
+  <programme start="20210201130000 -0300" stop="20210201140000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición Mediodía</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20210201140000 -0300" stop="20210201160000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20210201160000 -0300" stop="20210201163000 -0300" channel="VTV HD">
+    <title lang="es">Movete en casa</title>
+    <desc lang="es">El ejercicio en casa es una buena manera de combatir la ansiedad y el estrés con el que muchos viven esta pandemia y mejorar nuestra calidad de vida.(n)</desc>
+  </programme>
+  <programme start="20210201163000 -0300" stop="20210201173000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae todas las tardes actualidad, información, buen humor y los incomparables platos de Marito Padrón.(n)</desc>
+  </programme>
+  <programme start="20210201173000 -0300" stop="20210201183000 -0300" channel="VTV HD">
+    <title lang="es">Fanáticos. MLS - Parte 1</title>
+    <desc lang="es">“JC” recorre el mundo entrando en los clubes más importantes del fútbol del planeta, y entrevistando a las principales figuras del fútbol mundial, de hoy y de siempre.(n)</desc>
+  </programme>
+  <programme start="20210201183000 -0300" stop="20210201190000 -0300" channel="VTV HD">
+    <title lang="es">Free Time</title>
+    <desc lang="es">Free Time es un programa que busca un enfoque distinto de las entrevistas y apunta al entretenimiento de los televidentes a través de consignas y juegos con una importante animación desde el punto de vista de la edición.(n)</desc>
+  </programme>
+  <programme start="20210201190000 -0300" stop="20210201200000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20210201200000 -0300" stop="20210201210000 -0300" channel="VTV HD">
+    <title lang="es">Cicerone</title>
+    <desc lang="es">Revista televisiva que cada semana incluye informes de turismo nacional, internacional, moda, belleza, eventos sociales, empresariales, fiestas, gastronomía, música, cine, teatro y deportes.(n)</desc>
+  </programme>
+  <programme start="20210201210000 -0300" stop="20210201223000 -0300" channel="VTV HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210201223000 -0300" stop="20210202000000 -0300" channel="VTV HD">
+    <title lang="es">Voces anónimas</title>
+    <desc lang="es">Guillermo Lockhart te presenta una nueva forma de acercarte a historias increíbles, llenas de misterio y suspenso, acerca de leyendas y mitos urbanos, donde se cuenta el drama, el terror y el suspenso vividos por sus protagonistas.(n)</desc>
+  </programme>
+  <programme start="20210202000000 -0300" stop="20210202010000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20210202010000 -0300" stop="20210202030000 -0300" channel="VTV HD">
+    <title lang="es">Danubio vs. Peñarol, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202030000 -0300" stop="20210202050000 -0300" channel="VTV HD">
+    <title lang="es">Defensor Sporting vs. River Plate, Fecha 3. Campeonato uruguayo</title>
+    <desc lang="es">Disfruta del torneo de primera división con los equipos uruguayos listos para medirse entre ellos.(n)</desc>
+  </programme>
+  <programme start="20210202050000 -0300" stop="20210202053000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20210202053000 -0300" stop="20210202070000 -0300" channel="VTV HD">
+    <title lang="es">Voces anónimas</title>
+    <desc lang="es">Guillermo Lockhart te presenta una nueva forma de acercarte a historias increíbles, llenas de misterio y suspenso, acerca de leyendas y mitos urbanos, donde se cuenta el drama, el terror y el suspenso vividos por sus protagonistas.(n)</desc>
+  </programme>
+  <programme start="20210202070000 -0300" stop="20210202080000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
+  </programme>
+  <programme start="20210202080000 -0300" stop="20210202100000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20210202100000 -0300" stop="20210202110000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae todas las tardes actualidad, información, buen humor y los incomparables platos de Marito Padrón.(n)</desc>
+  </programme>
+  <programme start="20210202110000 -0300" stop="20210202120000 -0300" channel="VTV HD">
+    <title lang="es">Movete en casa</title>
+    <desc lang="es">El ejercicio en casa es una buena manera de combatir la ansiedad y el estrés con el que muchos viven esta pandemia y mejorar nuestra calidad de vida.(n)</desc>
+  </programme>
+  <programme start="20210202120000 -0300" stop="20210202130000 -0300" channel="VTV HD">
+    <title lang="es">Iglesia universal del reino de Dios</title>
+    <desc lang="es">Emisión en la que podrás experimentar un encuentro diferente con el Señor a través de predicas del evangelio realizadas por pastores, enseñanzas y consejos útiles que edificaran tu alma y aumentaran tu fe.(n)</desc>
+  </programme>
+  <programme start="20210202130000 -0300" stop="20210202140000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición Mediodía</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20210202140000 -0300" stop="20210202160000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20210202160000 -0300" stop="20210202163000 -0300" channel="VTV HD">
+    <title lang="es">Movete en casa</title>
+    <desc lang="es">El ejercicio en casa es una buena manera de combatir la ansiedad y el estrés con el que muchos viven esta pandemia y mejorar nuestra calidad de vida.(n)</desc>
+  </programme>
+  <programme start="20210202163000 -0300" stop="20210202173000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae todas las tardes actualidad, información, buen humor y los incomparables platos de Marito Padrón.(n)</desc>
+  </programme>
+  <programme start="20210202173000 -0300" stop="20210202180000 -0300" channel="VTV HD">
+    <title lang="es">Danzas TV</title>
+    <desc lang="es">En Uruguay existe un gran número de escuelas de danzas, las cuales cuentan con un excelente nivel. Estos grandes resultados son fruto del alto nivel que tienen profesoras y alumnas de este arte, creando valores humanos y compañerismo.(n)</desc>
+  </programme>
+  <programme start="20210202180000 -0300" stop="20210202190000 -0300" channel="VTV HD">
+    <title lang="es">Cicerone</title>
+    <desc lang="es">Revista televisiva que cada semana incluye informes de turismo nacional, internacional, moda, belleza, eventos sociales, empresariales, fiestas, gastronomía, música, cine, teatro y deportes.(n)</desc>
+  </programme>
+  <programme start="20210202190000 -0300" stop="20210202200000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20210202200000 -0300" stop="20210202210000 -0300" channel="VTV HD">
+    <title lang="es">Días de Gloria</title>
+    <desc lang="es">"Días de Gloria" es el programa que recuerda los mejores oldies con la conducción de Nacho Rius.(n)</desc>
+  </programme>
+  <programme start="20210202210000 -0300" stop="20210202220000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas. Clásicos Apertura</title>
+    <desc lang="es">Miguel Pastorino te propone disfrutar y recordar con emoción los mejores recuerdos de encuentros memorables del fútbol. Un espacio para revivir esos grandes partidos que, para muchos, son inolvidables.(n)</desc>
+  </programme>
+  <programme start="20210202220000 -0300" stop="20210202233000 -0300" channel="VTV HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210130210000 -0300" stop="20210130220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Historias de vino. Bodegas familiares: Pizzorno y los Nadies</title>
+    <desc lang="es">Una serie sobre el Tannat como identidad nacional, los pioneros, las familias productoras, los trabajadores, el ciclo de la vid y la producción vitivinícola en Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210130220000 -0300" stop="20210130230000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Las 13 esposas de Wilson Fernández. Emilia</title>
+    <desc lang="es">Un pianista mediocre es convocado por los socios de un pequeño club de fútbol para animar la noche de Navidad. No sabe que lo espera un mundo desconocido que hará emerger una parte también desconocida de su personalidad.(n)</desc>
+  </programme>
+  <programme start="20210130230000 -0300" stop="20210131000000 -0300" channel="TV Ciudad HD">
+    <title lang="es">TV ciudad en concierto. Montevideo Rock: Peyote asesino</title>
+    <desc lang="es">Un programa para revivir junto a los músicos las presentaciones de sus bandas en el Montevideo Rock.(n)</desc>
+  </programme>
+  <programme start="20210131000000 -0300" stop="20210131010000 -0300" channel="TV Ciudad HD">
+    <title lang="es">TV ciudad en concierto. Montevideo hip hop: AFC</title>
+    <desc lang="es">Un programa para revivir junto a los músicos las presentaciones de sus bandas en el Montevideo Rock.(n)</desc>
+  </programme>
+  <programme start="20210131010000 -0300" stop="20210131080000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Videoclips. Nostalgia en TV ciudad</title>
+  </programme>
+  <programme start="20210131080000 -0300" stop="20210131083000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Salto TV</title>
+  </programme>
+  <programme start="20210131083000 -0300" stop="20210131090000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Canelones al este</title>
+    <desc lang="es">Disfruta de un segmento informativo dedicado a presentar el acontecer diario del departamento de Canelones, Uruguay, el cual te trae las informaciones más recientes de cada jornada.(n)</desc>
+  </programme>
+  <programme start="20210131090000 -0300" stop="20210131120000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20210131120000 -0300" stop="20210131123000 -0300" channel="TV Ciudad HD">
+    <title lang="es">¿Qué hay de comer?. Diego Vega 3</title>
+    <desc lang="es">Un espacio en donde reconocidos chefs enseñarán una original manera de cocinar, siempre combinando la salud, el sabor y la economía, logrando una comida especial para varias personas y con un presupuesto reducido.(n)</desc>
+  </programme>
+  <programme start="20210131123000 -0300" stop="20210131130000 -0300" channel="TV Ciudad HD">
+    <title lang="es">¿Qué hay de comer?. Diego Vega 4</title>
+    <desc lang="es">Un espacio en donde reconocidos chefs enseñarán una original manera de cocinar, siempre combinando la salud, el sabor y la economía, logrando una comida especial para varias personas y con un presupuesto reducido.(n)</desc>
+  </programme>
+  <programme start="20210131130000 -0300" stop="20210131140000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Todo Carnaval - Fuera de concurso. Charly Alvarez</title>
+    <desc lang="es">Un mano a mano con las figuras más destacadas del Carnaval, analizando la historia y la actualidad de esta fiesta a través de las trayectorias de los invitados.(n)</desc>
+  </programme>
+  <programme start="20210131140000 -0300" stop="20210131150000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Todo Carnaval - Fuera de concurso. Actuación Diablos Verdes 2003</title>
+    <desc lang="es">Un mano a mano con las figuras más destacadas del Carnaval, analizando la historia y la actualidad de esta fiesta a través de las trayectorias de los invitados.(n)</desc>
+  </programme>
+  <programme start="20210131150000 -0300" stop="20210131160000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Los archivos de la caja negra. Esteban Conde</title>
+    <desc lang="es">Revive junto a nosotros los mejores momentos de las seis temporadas de La Caja Negra, en inolvidables mano a mano de entre los conductores, los deportistas y dirigentes invitados.(n)</desc>
+  </programme>
+  <programme start="20210131160000 -0300" stop="20210131170000 -0300" channel="TV Ciudad HD">
+    <title lang="es">El tango. Los misterios de Gardel</title>
+    <desc lang="es">Ciclo de contenidos audiovisuales, en los cuales se presenta la evolución del tango, desde sus comienzos hasta nuestros días, con testimonios, notas de interés y reportajes.(n)</desc>
+  </programme>
+  <programme start="20210131170000 -0300" stop="20210131173000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Entornos. Santiago Vázquez</title>
+    <desc lang="es">Ciclo de reportajes que retratan el área metropolitana de Uruguay, captando los poblados y su gente, mostrando un testimonio audiovisual de cada sector en diferentes escenarios haciendo referencia al concepto de cercanía.(n)</desc>
+  </programme>
+  <programme start="20210131173000 -0300" stop="20210131180000 -0300" channel="TV Ciudad HD">
+    <title lang="es">NCC - Noticias científicas culturales. Emisión del día 18/01/21</title>
+    <desc lang="es">Un espacio que busca hacer más accesible el conocimiento científico y cultural y visibilizar actividades de innovación y tecnología en la región de iberoamerica.(n)</desc>
+  </programme>
+  <programme start="20210131180000 -0300" stop="20210131183000 -0300" channel="TV Ciudad HD">
+    <title lang="es">NCC Salud. Emisión del día 04/01/21</title>
+    <desc lang="es">El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas.(n)</desc>
+  </programme>
+  <programme start="20210131183000 -0300" stop="20210131190000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Ciudadanos ilustres. Ademar Olivera</title>
+    <desc lang="es">Entrevista a personalidades que fueron distinguidas por la Intendencia de Montevideo por su trayectoria.(n)</desc>
+  </programme>
+  <programme start="20210131190000 -0300" stop="20210131200000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mario Benedetti. Andamios</title>
+    <desc lang="es">Mario Benedetti por Hortensia Campanella, Fundación Mario Benedetti.(n)</desc>
+  </programme>
+  <programme start="20210131200000 -0300" stop="20210131210000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Autores en vivo. Los fatales</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20210131210000 -0300" stop="20210131213000 -0300" channel="TV Ciudad HD">
+    <title lang="es">TV ciudad en concierto. Montevideo Tropical 2018: La Kamorra - Antillano</title>
+    <desc lang="es">Un programa para revivir junto a los músicos las presentaciones de sus bandas en el Montevideo Rock.(n)</desc>
+  </programme>
+  <programme start="20210131213000 -0300" stop="20210131220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">TV ciudad en concierto. Montevideo tropical 2018: Martín Quiroga - Charly Sosa</title>
+    <desc lang="es">Un programa para revivir junto a los músicos las presentaciones de sus bandas en el Montevideo Rock.(n)</desc>
+  </programme>
+  <programme start="20210131220000 -0300" stop="20210201000000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Kill Bill 2</title>
+    <desc lang="es">Tras eliminar a algunos de los miembros de la banda que intentó asesinarla el día de su boda, la novia asesina, continúa con su venganza.(n)</desc>
+  </programme>
+  <programme start="20210201000000 -0300" stop="20210201010000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Músicos de Latinoamérica</title>
+    <desc lang="es">Serie documental que recorre el continente para entrevistar y conocer la historia de los compositores que fundaron los movimientos musicales más revolucionarios del siglo XX.(n)</desc>
+  </programme>
+  <programme start="20210201010000 -0300" stop="20210201080000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Videoclips. Nostalgia en TV ciudad</title>
+  </programme>
+  <programme start="20210201080000 -0300" stop="20210201090000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Testigos. Luz Ibarburu de Recagno</title>
+    <desc lang="es">Un espacio que reúne a protagonistas recordados y olvidados de la vida del Uruguay del siglo XX, con el formato del gran reportaje.(n)</desc>
+  </programme>
+  <programme start="20210201090000 -0300" stop="20210201103000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20210201103000 -0300" stop="20210201110000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En movimiento</title>
+    <desc lang="es">Clases de gimnasia a cargo de profesores y profesoras de los programas Personas Mayores y Atención a Personas con Discapacidad de la Secretaría de Educación Física, Deporte y Recreación de la Intendencia de Montevideo.(n)</desc>
+  </programme>
+  <programme start="20210201110000 -0300" stop="20210201113000 -0300" channel="TV Ciudad HD">
+    <title lang="es">NCC - Noticias científicas culturales. Emisión del día 18/01/21</title>
+    <desc lang="es">Un espacio que busca hacer más accesible el conocimiento científico y cultural y visibilizar actividades de innovación y tecnología en la región de iberoamerica.(n)</desc>
+  </programme>
+  <programme start="20210201113000 -0300" stop="20210201123000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Café negro. Carlos Contrera</title>
+    <desc lang="es">Esta serie documental recorre la fascinante historia del café. Desde su descubrimiento en una antigua colina de Etiopía a su papel como un elixir moderno.(n)</desc>
+  </programme>
+  <programme start="20210201123000 -0300" stop="20210201133000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Todo tiene un porqué. Números</title>
+    <desc lang="es">La misión del programa, sumada a la experiencia que entrega Juan Di Natale, será reforzar la temática curricular, con el fin de servir como fuente y respaldo constante a los estudiantes, maestros y profesores de la Argentina.(n)</desc>
+  </programme>
+  <programme start="20210201133000 -0300" stop="20210201140000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Trazos de Guanajuato. Mineral de Pozos-Pueblo fantasma</title>
+    <desc lang="es">Grecia Lozano es una viajera enamorada de la historia y el pasado de los lugares. En su travesía por Guanajuato, recorre algunos de los municipios en busca de personajes, sitios o tradiciones que hayan marcado la vida de sus habitantes.(n)</desc>
+  </programme>
+  <programme start="20210201140000 -0300" stop="20210201153000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20210201153000 -0300" stop="20210201160000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Migrantes. Nicaraguenses en Costa Rica</title>
+    <desc lang="es">Historias de quienes eligieron Uruguay para realizar sus sueños.(n)</desc>
+  </programme>
+  <programme start="20210201160000 -0300" stop="20210201163000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Migrantes. Japoneses en Colombia</title>
+    <desc lang="es">Historias de quienes eligieron Uruguay para realizar sus sueños.(n)</desc>
+  </programme>
+  <programme start="20210201163000 -0300" stop="20210201173000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Testigos. Aurelio Gonzalez</title>
+    <desc lang="es">Un espacio que reúne a protagonistas recordados y olvidados de la vida del Uruguay del siglo XX, con el formato del gran reportaje.(n)</desc>
+  </programme>
+  <programme start="20210201173000 -0300" stop="20210201180000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En movimiento</title>
+    <desc lang="es">Clases de gimnasia a cargo de profesores y profesoras de los programas Personas Mayores y Atención a Personas con Discapacidad de la Secretaría de Educación Física, Deporte y Recreación de la Intendencia de Montevideo.(n)</desc>
+  </programme>
+  <programme start="20210201180000 -0300" stop="20210201200000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Informe capital</title>
+    <desc lang="es">Informativo central con la condiucción de Pilar Teijeiro y Martín Rodríguez junto a un gran equipo de periodistas nos traen toda la actualidad de nuestra ciudad.(n)</desc>
+  </programme>
+  <programme start="20210201200000 -0300" stop="20210201210000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Todo tiene un porqué. Sangre Roja</title>
+    <desc lang="es">La misión del programa, sumada a la experiencia que entrega Juan Di Natale, será reforzar la temática curricular, con el fin de servir como fuente y respaldo constante a los estudiantes, maestros y profesores de la Argentina.(n)</desc>
+  </programme>
+  <programme start="20210201210000 -0300" stop="20210201220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Miradas sin filtro</title>
+    <desc lang="es">Una serie documental que explora la realidad cotidiana de los pueblos originarios del estado de Querétaro. El espacio propone conocer la mirada de la gente desde su propia realidad, cómo se perciben, cómo viven y cómo se muestran.(n)</desc>
+  </programme>
+  <programme start="20210201220000 -0300" stop="20210201230000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Estoy vivo</title>
+    <desc lang="es">Márquez y El Enlace continúan con sus planes para dar con el Carnicero. Mientras tanto, el nuevo profesor se acerca cada vez más a Bea y comienza a levantar sospechas en el colegio.(n)</desc>
+  </programme>
+  <programme start="20210201230000 -0300" stop="20210201233000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La abuela Sofía. Crecer</title>
+    <desc lang="es">Cuenta la historia del reencuentro entre un nieto y su abuela, en los últimos años de su vida. Lo que empezó siendo una despedida, terminó transformándose en una oportunidad para descubrir que el amor y la música pueden transformarlo todo.(n)</desc>
+  </programme>
+  <programme start="20210201233000 -0300" stop="20210202000000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Informe capital</title>
+    <desc lang="es">Informativo central con la condiucción de Pilar Teijeiro y Martín Rodríguez junto a un gran equipo de periodistas nos traen toda la actualidad de nuestra ciudad.(n)</desc>
+  </programme>
+  <programme start="20210202000000 -0300" stop="20210202013000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Informe capital</title>
+    <desc lang="es">Informativo central con la condiucción de Pilar Teijeiro y Martín Rodríguez junto a un gran equipo de periodistas nos traen toda la actualidad de nuestra ciudad.(n)</desc>
+  </programme>
+  <programme start="20210202013000 -0300" stop="20210202023000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20210202023000 -0300" stop="20210202070000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Videoclips. Nostalgia en TV ciudad</title>
+  </programme>
+  <programme start="20210202070000 -0300" stop="20210202090000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Informe capital</title>
+    <desc lang="es">Informativo central con la condiucción de Pilar Teijeiro y Martín Rodríguez junto a un gran equipo de periodistas nos traen toda la actualidad de nuestra ciudad.(n)</desc>
+  </programme>
+  <programme start="20210202090000 -0300" stop="20210202103000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20210202103000 -0300" stop="20210202110000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En movimiento</title>
+    <desc lang="es">Clases de gimnasia a cargo de profesores y profesoras de los programas Personas Mayores y Atención a Personas con Discapacidad de la Secretaría de Educación Física, Deporte y Recreación de la Intendencia de Montevideo.(n)</desc>
+  </programme>
+  <programme start="20210202110000 -0300" stop="20210202113000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Canelones al este</title>
+    <desc lang="es">Disfruta de un segmento informativo dedicado a presentar el acontecer diario del departamento de Canelones, Uruguay, el cual te trae las informaciones más recientes de cada jornada.(n)</desc>
+  </programme>
+  <programme start="20210202113000 -0300" stop="20210202123000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Café negro. Claudia Amengual</title>
+    <desc lang="es">Esta serie documental recorre la fascinante historia del café. Desde su descubrimiento en una antigua colina de Etiopía a su papel como un elixir moderno.(n)</desc>
+  </programme>
+  <programme start="20210202123000 -0300" stop="20210202133000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Todo tiene un porqué. Sangre Roja</title>
+    <desc lang="es">La misión del programa, sumada a la experiencia que entrega Juan Di Natale, será reforzar la temática curricular, con el fin de servir como fuente y respaldo constante a los estudiantes, maestros y profesores de la Argentina.(n)</desc>
+  </programme>
+  <programme start="20210202133000 -0300" stop="20210202134500 -0300" channel="TV Ciudad HD">
+    <title lang="es">Trazos de Guanajuato. Lago de sangre</title>
+    <desc lang="es">Grecia Lozano es una viajera enamorada de la historia y el pasado de los lugares. En su travesía por Guanajuato, recorre algunos de los municipios en busca de personajes, sitios o tradiciones que hayan marcado la vida de sus habitantes.(n)</desc>
+  </programme>
+  <programme start="20210202134500 -0300" stop="20210202153000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20210202153000 -0300" stop="20210202160000 -0300" channel="TV Ciudad HD">
+    <title lang="es">¿Qué inventa?. Pilas</title>
+    <desc lang="es">Un documental que investiga sobre el origen, la evolución, la adaptación y la reinvención de los grandes inventos universales en Colombia. Luis, oriundo de dicho país, será quien se cuestione e indague sobre el contexto y su propia cultura.(n)</desc>
+  </programme>
+  <programme start="20210202160000 -0300" stop="20210202163000 -0300" channel="TV Ciudad HD">
+    <title lang="es">¿Qué inventa?. Las prótesis</title>
+    <desc lang="es">Un documental que investiga sobre el origen, la evolución, la adaptación y la reinvención de los grandes inventos universales en Colombia. Luis, oriundo de dicho país, será quien se cuestione e indague sobre el contexto y su propia cultura.(n)</desc>
+  </programme>
+  <programme start="20210202163000 -0300" stop="20210202173000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Testigos. Rodolfo Talice</title>
+    <desc lang="es">Un espacio que reúne a protagonistas recordados y olvidados de la vida del Uruguay del siglo XX, con el formato del gran reportaje.(n)</desc>
+  </programme>
+  <programme start="20210202173000 -0300" stop="20210202180000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En movimiento</title>
+    <desc lang="es">Clases de gimnasia a cargo de profesores y profesoras de los programas Personas Mayores y Atención a Personas con Discapacidad de la Secretaría de Educación Física, Deporte y Recreación de la Intendencia de Montevideo.(n)</desc>
+  </programme>
+  <programme start="20210202180000 -0300" stop="20210202200000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Informe capital</title>
+    <desc lang="es">Informativo central con la condiucción de Pilar Teijeiro y Martín Rodríguez junto a un gran equipo de periodistas nos traen toda la actualidad de nuestra ciudad.(n)</desc>
+  </programme>
+  <programme start="20210202200000 -0300" stop="20210202210000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Todo tiene un porqué. Fotos</title>
+    <desc lang="es">La misión del programa, sumada a la experiencia que entrega Juan Di Natale, será reforzar la temática curricular, con el fin de servir como fuente y respaldo constante a los estudiantes, maestros y profesores de la Argentina.(n)</desc>
+  </programme>
+  <programme start="20210202210000 -0300" stop="20210202220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Fútbol entre líneas. Hacha y tiza</title>
+    <desc lang="es">Historias del mundo del fútbol de la mano de Hernán Casciari.(n)</desc>
+  </programme>
+  <programme start="20210202220000 -0300" stop="20210202230000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Estoy vivo</title>
+    <desc lang="es">El Enlace y Márquez cuentan con la ayuda de Sebas para encontrar al Carnicero. Pero lo que él no espera es la escena de terror a la que se enfrentarán con el ataque de varios hostiles en una trampa preparada por el asesino.(n)</desc>
+  </programme>
+  <programme start="20210202230000 -0300" stop="20210202233000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La abuela Sofía. Querer</title>
+    <desc lang="es">Cuenta la historia del reencuentro entre un nieto y su abuela, en los últimos años de su vida. Lo que empezó siendo una despedida, terminó transformándose en una oportunidad para descubrir que el amor y la música pueden transformarlo todo.(n)</desc>
+  </programme>
+  <programme start="20210130190000 -0300" stop="20210130230000 -0300" channel="TNU HD">
+    <title lang="es">Festival de Jazz de Punta del Este</title>
+    <desc lang="es">Despedimos enero a todo jazz. El Festival de Jazz de Punta del Este cumple 25 años y lo celebramos con una transmisión especial en vivo desde el mítico escenario de El sosiego.(n)</desc>
+  </programme>
+  <programme start="20210130230000 -0300" stop="20210131000000 -0300" channel="TNU HD">
+    <title lang="es">CorcheaTV</title>
+    <desc lang="es">Un programa donde la música uruguaya es la única protagonista. Un espacio para conocer artistas de todos los géneros musicales, con la conducción de la cantante, música y compositora Guadalupe Romero.(n)</desc>
+  </programme>
+  <programme start="20210131000000 -0300" stop="20210131003000 -0300" channel="TNU HD">
+    <title lang="es">Símbolos vivos del planeta</title>
+    <desc lang="es">Ya no recordamos el momento en el que las personas no se separaban de la naturaleza y de aquellos que viven ella. Pero seguimos siendo parte del planeta vivo, incluso cuando a veces pensemos que estamos por fuera.(n)</desc>
+  </programme>
+  <programme start="20210131003000 -0300" stop="20210131013000 -0300" channel="TNU HD">
+    <title lang="es">Historias propias</title>
+    <desc lang="es">Historias de vida de gente común. Cocineros, raidistas, científicos, panaderos, deportistas, etc. Historias con voz propia vistas desde otra mirada.(n)</desc>
+  </programme>
+  <programme start="20210131013000 -0300" stop="20210131020000 -0300" channel="TNU HD">
+    <title lang="es">Tesoros del mundo</title>
+    <desc lang="es">Un espacio que propone recorrer todos los rincones del planeta en busca de los tesoros de la humanidad. Lugares donde la magia convive con la moderna tecnología, sitios donde el pasado se revela y regala una mejor comprensión del presente.(n)</desc>
+  </programme>
+  <programme start="20210131020000 -0300" stop="20210131030000 -0300" channel="TNU HD">
+    <title lang="es">Patrimonio silencioso</title>
+    <desc lang="es">Recorremos diferentes lugares emblemáticos de Montevideo para mostrar cómo se ven ahora, vacíos, en silencio.(n)</desc>
+  </programme>
+  <programme start="20210131030000 -0300" stop="20210131040000 -0300" channel="TNU HD">
+    <title lang="es">Luces en la ciudad</title>
+    <desc lang="es">Un helicóptero recorre la ciudad para conocer las historias conmovedoras de una sociedad que renovó su compromiso solidario.(n)</desc>
+  </programme>
+  <programme start="20210131040000 -0300" stop="20210131043000 -0300" channel="TNU HD">
+    <title lang="es">Un monumento de país</title>
+    <desc lang="es">A lo largo de trece semanas les llevaremos a conocer facetas patrimoniales que cubren un abanico amplio de situaciones y realidades: como el patrimonio museístico, musical, industrial, cívico uruguayo, entre otros.(n)</desc>
+  </programme>
+  <programme start="20210131043000 -0300" stop="20210131050000 -0300" channel="TNU HD">
+    <title lang="es">Génesis</title>
+    <desc lang="es">A través de dos retratos documentales de artistas de una misma disciplina, cada episodio explora sus universos para aproximarnos un panorama de cómo se articula la creación artística en el Uruguay del siglo XXI.(n)</desc>
+  </programme>
+  <programme start="20210131050000 -0300" stop="20210131060000 -0300" channel="TNU HD">
+    <title lang="es">Uruguay por dentro</title>
+    <desc lang="es">Una mirada profunda a nuestro país. El programa recorre lugares, oficios y culturas de Uruguay, que muchas veces son desconocidos. Los relatos del caminante buscan sorprender con un toque de sensibilidad y un enfoque diferente.(n)</desc>
+  </programme>
+  <programme start="20210131060000 -0300" stop="20210131070000 -0300" channel="TNU HD">
+    <title lang="es">Mercados del mundo</title>
+    <desc lang="es">Visitaremos los mejores mercados del mundo, escucharemos sus sonidos y disfrutaremos sus aromas.(n)</desc>
+  </programme>
+  <programme start="20210131070000 -0300" stop="20210131073000 -0300" channel="TNU HD">
+    <title lang="es">Migrantes</title>
+    <desc lang="es">Historias de quienes eligieron Uruguay para realizar sus sueños.(n)</desc>
+  </programme>
+  <programme start="20210131073000 -0300" stop="20210131080000 -0300" channel="TNU HD">
+    <title lang="es">Símbolos vivos del planeta</title>
+    <desc lang="es">Ya no recordamos el momento en el que las personas no se separaban de la naturaleza y de aquellos que viven ella. Pero seguimos siendo parte del planeta vivo, incluso cuando a veces pensemos que estamos por fuera.(n)</desc>
+  </programme>
+  <programme start="20210131080000 -0300" stop="20210131083000 -0300" channel="TNU HD">
+    <title lang="es">Construyendo Canelones</title>
+    <desc lang="es">Es un resumen semanal de los hechos que marcan el acontecer de todo Canelones, desde la óptica de la Gestión del Gobierno Departamental. Una mirada sobre todo el territorio, su gente, las necesidades y las soluciones.(n)</desc>
+  </programme>
+  <programme start="20210131083000 -0300" stop="20210131100000 -0300" channel="TNU HD">
+    <title lang="es">El canal de los niños</title>
+    <desc lang="es">Es el espacio infantil en la pantalla de Televisión Nacional de Uruguay. Dentro de este espacio se emiten diversos programas que les presentamos a continuación, a lo largo del año se sumarán nuevos contenidos.(n)</desc>
+  </programme>
+  <programme start="20210131100000 -0300" stop="20210131110000 -0300" channel="TNU HD">
+    <title lang="es">Alimentos</title>
+    <desc lang="es">Un espacio que propone espacio dar a conocer cuáles son los caminos que recorren los productos comestibles hasta llegar a la mesa.(n)</desc>
+  </programme>
+  <programme start="20210131110000 -0300" stop="20210131113000 -0300" channel="TNU HD">
+    <title lang="es">Catadores</title>
+    <desc lang="es">Un recorrido por el trabajo que logra transformar lo común en perfecto, abriendo la puerta al fascinante mundo de la pasión por el buen gusto y el disfrute en el punto justo, donde el conocimiento se funde con los aromas y sabores.(n)</desc>
+  </programme>
+  <programme start="20210131113000 -0300" stop="20210131123000 -0300" channel="TNU HD">
+    <title lang="es">Historias propias</title>
+    <desc lang="es">Historias de vida de gente común. Cocineros, raidistas, científicos, panaderos, deportistas, etc. Historias con voz propia vistas desde otra mirada.(n)</desc>
+  </programme>
+  <programme start="20210131123000 -0300" stop="20210131133000 -0300" channel="TNU HD">
+    <title lang="es">Luces en la ciudad</title>
+    <desc lang="es">Un helicóptero recorre la ciudad para conocer las historias conmovedoras de una sociedad que renovó su compromiso solidario.(n)</desc>
+  </programme>
+  <programme start="20210131133000 -0300" stop="20210131140000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20210131140000 -0300" stop="20210131150000 -0300" channel="TNU HD">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">Miralles designa a Elías para coordinar la investigación sobre el cartel de Jalisco, pero Sandra ha tomado una decisión. Ángela descubre que Gabriel Campos participó en el asalto al cajero.(n)</desc>
+  </programme>
+  <programme start="20210131150000 -0300" stop="20210131163000 -0300" channel="TNU HD">
+    <title lang="es">El canal de los niños</title>
+    <desc lang="es">Es el espacio infantil en la pantalla de Televisión Nacional de Uruguay. Dentro de este espacio se emiten diversos programas que les presentamos a continuación, a lo largo del año se sumarán nuevos contenidos.(n)</desc>
+  </programme>
+  <programme start="20210131163000 -0300" stop="20210131180000 -0300" channel="TNU HD">
+    <title lang="es">Sodre en escena. Noche lírica</title>
+    <desc lang="es">Un espacio para conocer el trabajo de técnicos y artistas que hacen posible la realización de los conciertos del Sodre.(n)</desc>
+  </programme>
+  <programme start="20210131180000 -0300" stop="20210131183000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20210131183000 -0300" stop="20210131190000 -0300" channel="TNU HD">
+    <title lang="es">Info TNU - Edición Central</title>
+    <desc lang="es">El noticiero de la televisión pública.(n)</desc>
+  </programme>
+  <programme start="20210131190000 -0300" stop="20210131230000 -0300" channel="TNU HD">
+    <title lang="es">Festival de Jazz de Punta del Este</title>
+    <desc lang="es">Despedimos enero a todo jazz. El Festival de Jazz de Punta del Este cumple 25 años y lo celebramos con una transmisión especial en vivo desde el mítico escenario de El sosiego.(n)</desc>
+  </programme>
+  <programme start="20210131230000 -0300" stop="20210201000000 -0300" channel="TNU HD">
+    <title lang="es">La hora de los deportes</title>
+    <desc lang="es">Un clásico análisis deportivo domingo a domingo donde los más destacados periodistas deportivos analizan la actividad de la semana.(n)</desc>
+  </programme>
+  <programme start="20210201000000 -0300" stop="20210201010000 -0300" channel="TNU HD">
+    <title lang="es">La hora de los deportes</title>
+    <desc lang="es">Un clásico análisis deportivo domingo a domingo donde los más destacados periodistas deportivos analizan la actividad de la semana.(n)</desc>
+  </programme>
+  <programme start="20210201010000 -0300" stop="20210201020000 -0300" channel="TNU HD">
+    <title lang="es">CorcheaTV</title>
+    <desc lang="es">Un programa donde la música uruguaya es la única protagonista. Un espacio para conocer artistas de todos los géneros musicales, con la conducción de la cantante, música y compositora Guadalupe Romero.(n)</desc>
+  </programme>
+  <programme start="20210201020000 -0300" stop="20210201030000 -0300" channel="TNU HD">
+    <title lang="es">Luces en la ciudad</title>
+    <desc lang="es">Un helicóptero recorre la ciudad para conocer las historias conmovedoras de una sociedad que renovó su compromiso solidario.(n)</desc>
+  </programme>
+  <programme start="20210201030000 -0300" stop="20210201040000 -0300" channel="TNU HD">
+    <title lang="es">Mercados del mundo</title>
+    <desc lang="es">Visitaremos los mejores mercados del mundo, escucharemos sus sonidos y disfrutaremos sus aromas.(n)</desc>
+  </programme>
+  <programme start="20210201040000 -0300" stop="20210201050000 -0300" channel="TNU HD">
+    <title lang="es">Baqueanos</title>
+    <desc lang="es">Historias de madrugar para trabajar, de mujeres que aman lo que hacen y hombres que saben que sus oficios se pueden perder sin dejar huellas en nuestras memorias.(n)</desc>
+  </programme>
+  <programme start="20210201050000 -0300" stop="20210201053000 -0300" channel="TNU HD">
+    <title lang="es">Génesis</title>
+    <desc lang="es">A través de dos retratos documentales de artistas de una misma disciplina, cada episodio explora sus universos para aproximarnos un panorama de cómo se articula la creación artística en el Uruguay del siglo XXI.(n)</desc>
+  </programme>
+  <programme start="20210201053000 -0300" stop="20210201060000 -0300" channel="TNU HD">
+    <title lang="es">El monitor plástico</title>
+    <desc lang="es">Videoentrevistas a artistas uruguayos. Una invitación a conocer sus lugares de trabajo, las exposiciones que realizan y galerías de arte especializadas. Comentarios entendidos, eventos especiales de arte, bienales, salones y colecciones.(n)</desc>
+  </programme>
+  <programme start="20210201060000 -0300" stop="20210201070000 -0300" channel="TNU HD">
+    <title lang="es">Historias propias</title>
+    <desc lang="es">Historias de vida de gente común. Cocineros, raidistas, científicos, panaderos, deportistas, etc. Historias con voz propia vistas desde otra mirada.(n)</desc>
+  </programme>
+  <programme start="20210201070000 -0300" stop="20210201073000 -0300" channel="TNU HD">
+    <title lang="es">Símbolos vivos del planeta</title>
+    <desc lang="es">Ya no recordamos el momento en el que las personas no se separaban de la naturaleza y de aquellos que viven ella. Pero seguimos siendo parte del planeta vivo, incluso cuando a veces pensemos que estamos por fuera.(n)</desc>
+  </programme>
+  <programme start="20210201073000 -0300" stop="20210201080000 -0300" channel="TNU HD">
+    <title lang="es">Agroinforme</title>
+    <desc lang="es">Agroinforme, el informativo agropecuario pionero en la televisión uruguaya.(n)</desc>
+  </programme>
+  <programme start="20210201080000 -0300" stop="20210201083000 -0300" channel="TNU HD">
+    <title lang="es">Info TNU - Mañana</title>
+    <desc lang="es">El noticiero de la televisión pública.(n)</desc>
+  </programme>
+  <programme start="20210201083000 -0300" stop="20210201093000 -0300" channel="TNU HD">
+    <title lang="es">Luces en la ciudad</title>
+    <desc lang="es">Un helicóptero recorre la ciudad para conocer las historias conmovedoras de una sociedad que renovó su compromiso solidario.(n)</desc>
+  </programme>
+  <programme start="20210201093000 -0300" stop="20210201100000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20210201100000 -0300" stop="20210201110000 -0300" channel="TNU HD">
+    <title lang="es">TA - Tiempo de aprender</title>
+    <desc lang="es">Un novedoso ciclo televisivo diario dirigido a alumnos de Primaria y Educación Media como otra opción de aprendizaje en el hogar, en función del contexto actual, generado por la pandemia que nos afecta.(n)</desc>
+  </programme>
+  <programme start="20210201110000 -0300" stop="20210201113000 -0300" channel="TNU HD">
+    <title lang="es">C+</title>
+    <desc lang="es">Una propuesta novedosa, entretenida y participativa de contenidos educativos elaborados por el Plan Ceibal. Dirigido a liceales del Primer ciclo de Enseñanza Secundaria.(n)</desc>
+  </programme>
+  <programme start="20210201113000 -0300" stop="20210201123000 -0300" channel="TNU HD">
+    <title lang="es">Chefs Uruguay</title>
+    <desc lang="es">Programa diario de cocina con invitados en vivo. Recetas, consejos y en un enfoque novedoso sobre salud y alimentación.(n)</desc>
+  </programme>
+  <programme start="20210201123000 -0300" stop="20210201130000 -0300" channel="TNU HD">
+    <title lang="es">Info TNU - Mediodía</title>
+    <desc lang="es">El noticiero de la televisión pública.(n)</desc>
+  </programme>
+  <programme start="20210201130000 -0300" stop="20210201140000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20210201140000 -0300" stop="20210201160000 -0300" channel="TNU HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Buscadores, el programa periodístico y de interés general que te acompaña tarde a tarde en Televisión Nacional.(n)</desc>
+  </programme>
+  <programme start="20210201160000 -0300" stop="20210201163000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20210201163000 -0300" stop="20210201170000 -0300" channel="TNU HD">
+    <title lang="es">C+</title>
+    <desc lang="es">Una propuesta novedosa, entretenida y participativa de contenidos educativos elaborados por el Plan Ceibal. Dirigido a liceales del Primer ciclo de Enseñanza Secundaria.(n)</desc>
+  </programme>
+  <programme start="20210201170000 -0300" stop="20210201170300 -0300" channel="TNU HD">
+    <title lang="es">Flash info</title>
+    <desc lang="es">Toda la actualidad en dos minutos.(n)</desc>
+  </programme>
+  <programme start="20210201170300 -0300" stop="20210201173000 -0300" channel="TNU HD">
+    <title lang="es">TA - Tiempo de aprender</title>
+    <desc lang="es">Un novedoso ciclo televisivo diario dirigido a alumnos de Primaria y Educación Media como otra opción de aprendizaje en el hogar, en función del contexto actual, generado por la pandemia que nos afecta.(n)</desc>
+  </programme>
+  <programme start="20210201173000 -0300" stop="20210201173300 -0300" channel="TNU HD">
+    <title lang="es">Flash info</title>
+    <desc lang="es">Toda la actualidad en dos minutos.(n)</desc>
+  </programme>
+  <programme start="20210201173300 -0300" stop="20210201180000 -0300" channel="TNU HD">
+    <title lang="es">TA - Tiempo de aprender</title>
+    <desc lang="es">Un novedoso ciclo televisivo diario dirigido a alumnos de Primaria y Educación Media como otra opción de aprendizaje en el hogar, en función del contexto actual, generado por la pandemia que nos afecta.(n)</desc>
+  </programme>
+  <programme start="20210201180000 -0300" stop="20210201180300 -0300" channel="TNU HD">
+    <title lang="es">Flash info</title>
+    <desc lang="es">Toda la actualidad en dos minutos.(n)</desc>
+  </programme>
+  <programme start="20210201180300 -0300" stop="20210201190000 -0300" channel="TNU HD">
+    <title lang="es">Concentrados</title>
+    <desc lang="es">Nacionales, internacionales, cuestiones de juego, resultados, hinchas, goles, tantos, llaves, puntos, desarrollo, política, alto rendimiento. Todos los días, todos los deportes.(n)</desc>
+  </programme>
+  <programme start="20210201190000 -0300" stop="20210201203000 -0300" channel="TNU HD">
+    <title lang="es">Info TNU - Edición Central</title>
+    <desc lang="es">Gabriella Lavarello y Leonardo Luzzi te acompañarán en esta emisión informativa de la televisión pública, en la cual te pondrán al día con los acontecimientos más importantes ocurridos en Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210201203000 -0300" stop="20210201213000 -0300" channel="TNU HD">
+    <title lang="es">Historias propias</title>
+    <desc lang="es">Historias de vida de gente común. Cocineros, raidistas, científicos, panaderos, deportistas, etc. Historias con voz propia vistas desde otra mirada.(n)</desc>
+  </programme>
+  <programme start="20210201213000 -0300" stop="20210201220000 -0300" channel="TNU HD">
+    <title lang="es">Catadores</title>
+    <desc lang="es">Un recorrido por el trabajo que logra transformar lo común en perfecto, abriendo la puerta al fascinante mundo de la pasión por el buen gusto y el disfrute en el punto justo, donde el conocimiento se funde con los aromas y sabores.(n)</desc>
+  </programme>
+  <programme start="20210201220000 -0300" stop="20210201230000 -0300" channel="TNU HD">
+    <title lang="es">Pesadilla en la cocina</title>
+  </programme>
+  <programme start="20210201230000 -0300" stop="20210202000000 -0300" channel="TNU HD">
+    <title lang="es">Fargo</title>
+    <desc lang="es">Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido.(n)</desc>
+  </programme>
+  <programme start="20210202000000 -0300" stop="20210202003000 -0300" channel="TNU HD">
+    <title lang="es">Símbolos vivos del planeta</title>
+    <desc lang="es">Ya no recordamos el momento en el que las personas no se separaban de la naturaleza y de aquellos que viven ella. Pero seguimos siendo parte del planeta vivo, incluso cuando a veces pensemos que estamos por fuera.(n)</desc>
+  </programme>
+  <programme start="20210202003000 -0300" stop="20210202010000 -0300" channel="TNU HD">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20210202010000 -0300" stop="20210202020000 -0300" channel="TNU HD">
+    <title lang="es">Chefs Uruguay</title>
+    <desc lang="es">Programa diario de cocina con invitados en vivo. Recetas, consejos y en un enfoque novedoso sobre salud y alimentación.(n)</desc>
+  </programme>
+  <programme start="20210202020000 -0300" stop="20210202030000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20210202030000 -0300" stop="20210202033000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20210202033000 -0300" stop="20210202043000 -0300" channel="TNU HD">
+    <title lang="es">Luces en la ciudad</title>
+    <desc lang="es">Un helicóptero recorre la ciudad para conocer las historias conmovedoras de una sociedad que renovó su compromiso solidario.(n)</desc>
+  </programme>
+  <programme start="20210202043000 -0300" stop="20210202053000 -0300" channel="TNU HD">
+    <title lang="es">Historias propias</title>
+    <desc lang="es">Historias de vida de gente común. Cocineros, raidistas, científicos, panaderos, deportistas, etc. Historias con voz propia vistas desde otra mirada.(n)</desc>
+  </programme>
+  <programme start="20210202053000 -0300" stop="20210202060000 -0300" channel="TNU HD">
+    <title lang="es">C+</title>
+    <desc lang="es">Una propuesta novedosa, entretenida y participativa de contenidos educativos elaborados por el Plan Ceibal. Dirigido a liceales del Primer ciclo de Enseñanza Secundaria.(n)</desc>
+  </programme>
+  <programme start="20210202060000 -0300" stop="20210202070000 -0300" channel="TNU HD">
+    <title lang="es">TA - Tiempo de aprender</title>
+    <desc lang="es">Un novedoso ciclo televisivo diario dirigido a alumnos de Primaria y Educación Media como otra opción de aprendizaje en el hogar, en función del contexto actual, generado por la pandemia que nos afecta.(n)</desc>
+  </programme>
+  <programme start="20210202070000 -0300" stop="20210202073000 -0300" channel="TNU HD">
+    <title lang="es">Símbolos vivos del planeta</title>
+    <desc lang="es">Ya no recordamos el momento en el que las personas no se separaban de la naturaleza y de aquellos que viven ella. Pero seguimos siendo parte del planeta vivo, incluso cuando a veces pensemos que estamos por fuera.(n)</desc>
+  </programme>
+  <programme start="20210202073000 -0300" stop="20210202080000 -0300" channel="TNU HD">
+    <title lang="es">Agroinforme</title>
+    <desc lang="es">Agroinforme, el informativo agropecuario pionero en la televisión uruguaya.(n)</desc>
+  </programme>
+  <programme start="20210202080000 -0300" stop="20210202083000 -0300" channel="TNU HD">
+    <title lang="es">Info TNU - Mañana</title>
+    <desc lang="es">El noticiero de la televisión pública.(n)</desc>
+  </programme>
+  <programme start="20210202083000 -0300" stop="20210202093000 -0300" channel="TNU HD">
+    <title lang="es">Luces en la ciudad</title>
+    <desc lang="es">Un helicóptero recorre la ciudad para conocer las historias conmovedoras de una sociedad que renovó su compromiso solidario.(n)</desc>
+  </programme>
+  <programme start="20210202093000 -0300" stop="20210202100000 -0300" channel="TNU HD">
+    <title lang="es">Social &amp; Co</title>
+    <desc lang="es">Una serie que invita a conocer otra de filosofía de empresas que propone un camino hacia nuevas economías sustentables.(n)</desc>
+  </programme>
+  <programme start="20210202100000 -0300" stop="20210202110000 -0300" channel="TNU HD">
+    <title lang="es">TA - Tiempo de aprender</title>
+    <desc lang="es">Un novedoso ciclo televisivo diario dirigido a alumnos de Primaria y Educación Media como otra opción de aprendizaje en el hogar, en función del contexto actual, generado por la pandemia que nos afecta.(n)</desc>
+  </programme>
+  <programme start="20210202110000 -0300" stop="20210202113000 -0300" channel="TNU HD">
+    <title lang="es">C+</title>
+    <desc lang="es">Una propuesta novedosa, entretenida y participativa de contenidos educativos elaborados por el Plan Ceibal. Dirigido a liceales del Primer ciclo de Enseñanza Secundaria.(n)</desc>
+  </programme>
+  <programme start="20210202113000 -0300" stop="20210202123000 -0300" channel="TNU HD">
+    <title lang="es">Chefs Uruguay</title>
+    <desc lang="es">Programa diario de cocina con invitados en vivo. Recetas, consejos y en un enfoque novedoso sobre salud y alimentación.(n)</desc>
+  </programme>
+  <programme start="20210202123000 -0300" stop="20210202130000 -0300" channel="TNU HD">
+    <title lang="es">Info TNU - Mediodía</title>
+    <desc lang="es">El noticiero de la televisión pública.(n)</desc>
+  </programme>
+  <programme start="20210202130000 -0300" stop="20210202140000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20210202140000 -0300" stop="20210202160000 -0300" channel="TNU HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Buscadores, el programa periodístico y de interés general que te acompaña tarde a tarde en Televisión Nacional.(n)</desc>
+  </programme>
+  <programme start="20210202160000 -0300" stop="20210202163000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20210202163000 -0300" stop="20210202170000 -0300" channel="TNU HD">
+    <title lang="es">C+</title>
+    <desc lang="es">Una propuesta novedosa, entretenida y participativa de contenidos educativos elaborados por el Plan Ceibal. Dirigido a liceales del Primer ciclo de Enseñanza Secundaria.(n)</desc>
+  </programme>
+  <programme start="20210202170000 -0300" stop="20210202170300 -0300" channel="TNU HD">
+    <title lang="es">Flash info</title>
+    <desc lang="es">Toda la actualidad en dos minutos.(n)</desc>
+  </programme>
+  <programme start="20210202170300 -0300" stop="20210202173000 -0300" channel="TNU HD">
+    <title lang="es">TA - Tiempo de aprender</title>
+    <desc lang="es">Un novedoso ciclo televisivo diario dirigido a alumnos de Primaria y Educación Media como otra opción de aprendizaje en el hogar, en función del contexto actual, generado por la pandemia que nos afecta.(n)</desc>
+  </programme>
+  <programme start="20210202173000 -0300" stop="20210202173300 -0300" channel="TNU HD">
+    <title lang="es">Flash info</title>
+    <desc lang="es">Toda la actualidad en dos minutos.(n)</desc>
+  </programme>
+  <programme start="20210202173300 -0300" stop="20210202180000 -0300" channel="TNU HD">
+    <title lang="es">TA - Tiempo de aprender</title>
+    <desc lang="es">Un novedoso ciclo televisivo diario dirigido a alumnos de Primaria y Educación Media como otra opción de aprendizaje en el hogar, en función del contexto actual, generado por la pandemia que nos afecta.(n)</desc>
+  </programme>
+  <programme start="20210202180000 -0300" stop="20210202180300 -0300" channel="TNU HD">
+    <title lang="es">Flash info</title>
+    <desc lang="es">Toda la actualidad en dos minutos.(n)</desc>
+  </programme>
+  <programme start="20210202180300 -0300" stop="20210202190000 -0300" channel="TNU HD">
+    <title lang="es">Baqueanos</title>
+    <desc lang="es">Historias de madrugar para trabajar, de mujeres que aman lo que hacen y hombres que saben que sus oficios se pueden perder sin dejar huellas en nuestras memorias.(n)</desc>
+  </programme>
+  <programme start="20210202190000 -0300" stop="20210202203000 -0300" channel="TNU HD">
+    <title lang="es">Info TNU - Edición Central</title>
+    <desc lang="es">Gabriella Lavarello y Leonardo Luzzi te acompañarán en esta emisión informativa de la televisión pública, en la cual te pondrán al día con los acontecimientos más importantes ocurridos en Uruguay.(n)</desc>
+  </programme>
+  <programme start="20210202203000 -0300" stop="20210202213000 -0300" channel="TNU HD">
+    <title lang="es">Los enigmas del cerebro humano</title>
+    <desc lang="es">Un espacio en el que se abordarán temas desde una perspectiva dinámica y atractiva como la memoria, inteligencia, emoción, conciencia, la interacción social, la biología de la decisión económica y mucho más.(n)</desc>
+  </programme>
+  <programme start="20210202213000 -0300" stop="20210202220000 -0300" channel="TNU HD">
+    <title lang="es">El futuro ya llegó</title>
+    <desc lang="es">La innovación tecnológica genera una mutación constante en el mundo del trabajo y de ella se desprenden oficios y profesiones. Este programa trae la foto actual del desarrollo tecnológico y su impacto social.(n)</desc>
+  </programme>
+  <programme start="20210202220000 -0300" stop="20210202230000 -0300" channel="TNU HD">
+    <title lang="es">Pesadilla en la cocina</title>
+  </programme>
+</tv>
