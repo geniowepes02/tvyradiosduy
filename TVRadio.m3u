@@ -1,7 +1,6 @@
 #EXTM3U TV y Radios Uruguay by GenioWEPES
-Actualizado 30-1-21
 
-#EXTINF:0, Canales TV
+#EXTINF:0, Canales TV Update 6-2-21
 https://www.youtube.com/watch?v=WHDSpgeloKs
 
 #EXTINF:-1 tvg-id="Uruguay Natural" tvg-logo="https://www.gub.uy/ministerio-turismo/sites/ministerio-turismo/files/2019-05/logo%20mintur%20blanco%20horiz_0.jpg" tvg-name="Uruguay Natural",Uruguay Natural
@@ -40,36 +39,38 @@ https://conceptoweb-studio.com/radio/video/canal11ury/
 #EXTINF:-1 tvg-id="Canal UCL" tvg-logo="https://i1.wp.com/uclplay.com/wp-content/uploads/2020/04/logo-horizontal-1.png?" tvg-name="Canal UCL",Canal UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?
 
-#EXTINF:0, Montevideo Portal (Funciona A veces)
+#EXTINF:-1 tvg-id="Montevideo Portal" tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" tvg-name="Montevideo Portal",Montevideo Portal
 https://wowza.montevideo.com.uy:2443/live/mvdstrem/playlist.m3u8
 
-#EXTINF:0, TVF Florida
+#EXTINF:-1 tvg-id="TVF Florida" tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" tvg-name="TVF Florida",TVF Florida
 http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
 
-#EXTINF:0, ICM TV
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/e4DMhKQvCBM/maxresdefault.jpg" ICM TV
 https://www.youtube.com/watch?v=xUaU8Vfyfdw
 
-#EXTINF:0, Maroñas
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg", Maroñas
 https://codere-mls-uruguay.akamaized.net/hls/live/2004038/MSL4URUGUAY/video_0/video_0.m3u8
 
-#EXTINF:0, Maroñas 2
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg", Maroñas 2
 http://wowza.montevideo.net.uy:1941/hipica/livestream/chunklist.m3u8
 
-#EXTINF:0, Canales Vera TV
+#EXTINF:0, Canales Vera TV (Wiseplay)
 https://www.youtube.com/watch?v=WHDSpgeloKs
 
-#EXTINF:0, Vera TV
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/240/default.jpg", Vera TV
 https://tv.vera.com.uy/canal/6001
 
-#EXTINF:0, TV Ciudad HD
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg", TV Ciudad HD
 https://tv.vera.com.uy/canal/6046
 
-#EXTINF:0, TNU HD
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg", TNU HD
 https://tv.vera.com.uy/canal/6042
 
-#EXTINF:0, Maroñas
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg", Maroñas
 https://tv.vera.com.uy/canal/6056
 
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6067/240/default.jpg", Canal 9 Rocha
+https://tv.vera.com.uy/canal/6067
 
 #EXTINF:0, Radio AM
 https://www.youtube.com/watch?v=WHDSpgeloKs
@@ -89,9 +90,9 @@ http://169.53.2.105:8032/ClarinAM
 https://radiolatina.live:10959/stream
 
 #EXTINF:0 group-title="Montevideo", Radio Clasica 650 AM
-http://173.249.7.231:8076/stream
+https://radios.iwstreaming.uy/8032/stream
 
-#EXTINF:0, Radio Sarandi 690 AM
+#EXTINF:0 group-title="Montevideo", Radio Sarandi 690 AM
 https://d1a7butsko8nkd.cloudfront.net/sarandi.mp3
 
 #EXTINF:0 group-title="Montevideo", Continente 730 AM
@@ -109,7 +110,7 @@ http://radiolatina.live/9202/stream;
 #EXTINF:0 group-title="Montevideo",  Sport 890 AM
 https://radios-mp3-uy.cdn.nedmedia.io/sport.mp3
 
-#EXTINF:0,group-title="Montevideo", Montecarlo 930 AM
+#EXTINF:0 group-title="Montevideo", Montecarlo 930 AM
 https://radiolatina.live:10965/;
 
 #EXTINF:0 group-title="Montevideo", Universal 970 AM
@@ -118,43 +119,43 @@ https://radio.970universal.com:8012/;
 #EXTINF:0 group-title="Montevideo", La 1010
 https://radiolatina.live/9204/stream.mp3
 
-#EXTINF:0, Radio Uruguay
-http://173.249.7.231:8084/stream
+#EXTINF:0 group-title="Montevideo", Radio Uruguay
+https://radios.iwstreaming.uy/8036/stream
 
-#EXTINF:0, Radio Maria
+#EXTINF:0 group-title="Montevideo", Radio Maria
 https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream
 
-#EXTINF:0, Radio Nacional
+#EXTINF:0 group-title="Montevideo",  Radio Nacional
 http://198.15.107.53:8090/;
 
-#EXTINF:0, RadioMundo 1170 AM
-https://listen.mixlr.com/cde284ae514f34f3052ee310b2daa4e7
+#EXTINF:0 group-title="Montevideo", RadioMundo 1170 AM
+https://edge.mixlr.com/channel/nuuij
 
-#EXTINF:0, Radio Centenario
+#EXTINF:0 group-title="Montevideo", Radio Centenario
 http://rfm.radio.netgate.com.uy:8000/centenario
 
-#EXTINF:0, Emisora del Sur
-http://173.249.7.231:8100/stream
+#EXTINF:0 group-title="Montevideo", Emisora del Sur
+https://radios.iwstreaming.uy/8034/stream
 
-#EXTINF:0, Radio Fenix
+#EXTINF:0  group-title="Montevideo", Radio Fenix
 https://sp3.servidorrprivado.com/8070/;
 
-#EXTINF:0, Radio Durazno
+#EXTINF:0 group-title="Durazno", Radio Durazno
 http://usa15.ciudaddigital.com.uy:8038/DuraznoAM
 
-#EXTINF:0, Radio Durazno 2
+#EXTINF:0 group-title="Durazno", Radio Durazno 2
 http://169.53.2.105:8038/DuraznoAM
 
-#EXTINF:0, Radio Yi
+#EXTINF:0 group-title="Durazno",Radio Yi
 http://169.53.2.105:8038/AM960
 
-#EXTINF:0, Radio Yi 2
+#EXTINF:0 group-title="Durazno", Radio Yi 2
 http://usa15.ciudaddigital.com.uy:8038/AM960
 
-#EXTINF:0, Radio LaCatorce
-https://radio.lacatorce10.com.uy:8062/;
+#EXTINF:0 group-title="Montevideo",Radio LaR
+http://radio.lacatorce10.com.uy:8060/;
 
-#EXTINF:0, CX46 Radio America
+#EXTINF:0 group-title="Montevideo", CX46 Radio America
 https://radiocx46-zikoxweb.radioca.st/stream
 
 #EXTINF:0 group-title="Rivera", Radio Vichadero
@@ -162,6 +163,18 @@ http://204.197.245.100:9146/stream/1/
 
 #EXTINF:0 group-title="Colonia", Radio del Oeste
 http://server.laradio.online:8982/stream/1/
+
+#EXTINF:0 group-title="Cerro Largo", Radio Melo
+http://gnstreammedia.com:8170/stream
+
+#EXTINF:0 group-title="Tacuarembó", Radio Zorrilla de San Martin
+https://server-usa2.radioseninternet.net/9312/stream/1/
+
+#EXTINF:0 group-title="Florida", CW 33 La Nueva Radio
+https://streaming1.hostingmontevideo.com:7017/stream/1/
+
+#EXTINF:0 group-title="Maldonado", Cadena del Mar
+https://streamingraddios.online/proxy/cadena?mp=/stream
 
 #EXTINF:0, Radio FM
 https://www.youtube.com/watch?v=WHDSpgeloKs
@@ -276,17 +289,44 @@ http://server.laradio.online:8984/stream/1/
 #EXTINF:0 group-title="Paysandu", Exito FM
 https://streamingv2.shoutcast.com/exito
 
-Transmisiones de Fútbol y Otros deportes
+#EXTINF:0 group-title="Montevideo", Dias de Gloria
+http://server.laradio.online:9114/stream/1/
 
-#EXTINF:0 group-title="Deportivo", Pasion Tricolor
+#EXTINF:0 group-title="Tacuarembó", Radio Tacuarembo AM
+http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM
+	
+#EXTINF:0, Transmisiones de Fútbol Uruguayo
+
+#EXTINF:0 group-title="Deportivo", Pasion Tricolor - Moreira
 https://streaming1.hostingmontevideo.com:7000/;stream.mp3
 
-#EXTINF:0 group-title="Deportivo", Futbol y Cia
+#EXTINF:0 group-title="Deportivo", Futbol y Cia - Profe Piñeyrua
 https://radio1.dl.uy:9952/?type=http&nocache=2780
 
 #EXTINF:0 group-title="Deportivo", Alberto Kesman - Universal
 https://radio.970universal.com:8012/;
 
-#EXTINF:0 group-title="Deportivo", Roberto Moar - Sport 890
+#EXTINF:0 group-title="Deportivo", Sport 890
 https://radios-mp3-uy.cdn.nedmedia.io/sport.mp3
+
+#EXTINF:0 group-title="Deportivo", Futbol a Lo Peñarol - Hanania
+https://radiolatina.live/9204/stream.mp3
+
+#EXTINF:0 group-title="Deportivo", Relatos Deportivo Maldonado
+https://streamingraddios.online/proxy/cadena?mp=/stream
+
+#EXTINF:0 group-title="Deportivo", Radio Oriental 770 AM
+http://radiolatina.live:7906/1
+
+#EXTINF:0 group-title="Deportivo", Radio El Espectador 810 AM
+http://espectador2.net.com.uy:8120/;
+
+#EXTINF:0 group-title="Deportivo",  Radio Carve 850 AM
+http://radiolatina.live/9202/stream;
+
+#EXTINF:0 group-title="Deportivo",  Radio Nacional
+http://198.15.107.53:8090/;
+
+#EXTINF:0 group-title="Deportivo ", Radio Uruguay
+https://radios.iwstreaming.uy/8036/stream
 
