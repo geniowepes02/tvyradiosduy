@@ -1,6 +1,6 @@
 #EXTM3U TV y Radios Uruguay by GenioWEPES
 
-#EXTINF:0, Canales TV Update 6-2-21
+#EXTINF:0, Canales TV Update 7-2-21
 https://www.youtube.com/watch?v=WHDSpgeloKs
 
 #EXTINF:-1 tvg-id="Uruguay Natural" tvg-logo="https://www.gub.uy/ministerio-turismo/sites/ministerio-turismo/files/2019-05/logo%20mintur%20blanco%20horiz_0.jpg" tvg-name="Uruguay Natural",Uruguay Natural
@@ -54,6 +54,9 @@ https://codere-mls-uruguay.akamaized.net/hls/live/2004038/MSL4URUGUAY/video_0/vi
 #EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg", Maroñas 2
 http://wowza.montevideo.net.uy:1941/hipica/livestream/chunklist.m3u8
 
+#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg", TNU HD
+https://tv.vera.com.uy/canal/6042
+
 #EXTINF:0, Canales Vera TV (Wiseplay)
 https://www.youtube.com/watch?v=WHDSpgeloKs
 
@@ -95,17 +98,29 @@ https://radios.iwstreaming.uy/8032/stream
 #EXTINF:0 group-title="Montevideo", Radio Sarandi 690 AM
 https://d1a7butsko8nkd.cloudfront.net/sarandi.mp3
 
+#EXTINF:0 group-title="Montevideo", Radio Sarandi 690 AM Opc 2
+http://200.42.4.30:8000/SARUY
+
 #EXTINF:0 group-title="Montevideo", Continente 730 AM
 http://mzpb.homeip.net:8152/;?type=http
 
 #EXTINF:0 group-title="Montevideo", Radio Oriental 770 AM
 http://radiolatina.live:7906/1
 
+#EXTINF:0 group-title="Montevideo", Radio Oriental 770 AM Op 2
+http://radiolatina.live:7906/1/;#.mp3
+
 #EXTINF:0 group-title="Montevideo", Radio El Espectador 810 AM
 http://espectador2.net.com.uy:8120/;
 
+#EXTINF:0 group-title="Montevideo", Radio El Espectador 810 AM Op 2
+http://espectador2.net.com.uy:8120/;#.mp3
+
 #EXTINF:0 group-title="Montevideo",  Radio Carve 850 AM
 http://radiolatina.live/9202/stream;
+
+#EXTINF:0 group-title="Montevideo",  Radio Carve 850 AM2
+http://radiolatina.live/9202/stream;#.mp3
 
 #EXTINF:0 group-title="Montevideo",  Sport 890 AM
 https://radios-mp3-uy.cdn.nedmedia.io/sport.mp3
@@ -121,6 +136,9 @@ https://radiolatina.live/9204/stream.mp3
 
 #EXTINF:0 group-title="Montevideo", Radio Uruguay
 https://radios.iwstreaming.uy/8036/stream
+
+#EXTINF:0 group-title="Montevideo", Radio Uruguay
+https://radios.iwstreaming.uy/8036/stream;#.mp3
 
 #EXTINF:0 group-title="Montevideo", Radio Maria
 https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream
@@ -294,11 +312,20 @@ http://server.laradio.online:9114/stream/1/
 
 #EXTINF:0 group-title="Tacuarembó", Radio Tacuarembo AM
 http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM
+
+Libertador FM
+http://radio.hostlagarto.com:9780/stream?1612659080356
 	
 #EXTINF:0, Transmisiones de Fútbol Uruguayo
 
-#EXTINF:0 group-title="Deportivo", Pasion Tricolor - Moreira
+#EXTINF:0 group-title="Deportivo", Pasion Tricolor - Nacional - Moreira
 https://streaming1.hostingmontevideo.com:7000/;stream.mp3
+
+#EXTINF:0 group-title="Deportivo", La Abdon Radio - Nacional
+http://190.2.45.2:8021/stream
+
+Pasion Darsenera - River Plate
+https://www.youtube.com/embed/ClubAtl%C3%A9ticoRiverPlateUruguay
 
 #EXTINF:0 group-title="Deportivo", Futbol y Cia - Profe Piñeyrua
 https://radio1.dl.uy:9952/?type=http&nocache=2780
