@@ -316,7 +316,7 @@ http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM
 #EXTINF:0 group-title="Florida", Libertador FM
 http://radio.hostlagarto.com:9780/stream?1612659080356
 	
-#EXTINF:0, Transmisiones de Fútbol Uruguayo
+#EXTINF:0 group-title="Deportivo", Transmisiones de Fútbol Uruguayo
 -------
 
 #EXTINF:0 group-title="Deportivo", Pasion Tricolor - Naciona
