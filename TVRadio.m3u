@@ -318,13 +318,13 @@ http://radio.hostlagarto.com:9780/stream?1612659080356
 	
 #EXTINF:0, Transmisiones de Fútbol Uruguayo
 
-#EXTINF:0 group-title="Deportivo", Pasion Tricolor - Nacional - Moreira
+#EXTINF:0 group-title="Deportivo", Pasion Tricolor - Nacional Moreira
 https://streaming1.hostingmontevideo.com:7000/;stream.mp3
 
 #EXTINF:0 group-title="Deportivo", La Abdon Radio - Nacional
 http://190.2.45.2:8021/stream
 
-Pasion Darsenera - River Plate
+#EXTINF:0 group-title="Deportivo", Pasion Darsenera - River Plate
 https://www.youtube.com/embed/ClubAtl%C3%A9ticoRiverPlateUruguay
 
 #EXTINF:0 group-title="Deportivo", Futbol y Cia - Profe Piñeyrua
