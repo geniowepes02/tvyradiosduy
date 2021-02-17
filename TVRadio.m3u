@@ -1,6 +1,6 @@
 #EXTM3U TV y Radios Uruguay by GenioWEPES
 
-#EXTINF:0, Canales TV Update 7-2-21
+#EXTINF:0, Canales TV Update 17-2-21
 https://www.youtube.com/watch?v=WHDSpgeloKs
 
 #EXTINF:-1 tvg-id="Uruguay Natural" tvg-logo="https://www.gub.uy/ministerio-turismo/sites/ministerio-turismo/files/2019-05/logo%20mintur%20blanco%20horiz_0.jpg" tvg-name="Uruguay Natural",Uruguay Natural
@@ -54,9 +54,6 @@ https://codere-mls-uruguay.akamaized.net/hls/live/2004038/MSL4URUGUAY/video_0/vi
 #EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg", Maroñas 2
 http://wowza.montevideo.net.uy:1941/hipica/livestream/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg", TNU HD
-https://tv.vera.com.uy/canal/6042
-
 #EXTINF:0, Canales Vera TV (Wiseplay)
 https://www.youtube.com/watch?v=WHDSpgeloKs
 
@@ -74,6 +71,8 @@ https://tv.vera.com.uy/canal/6056
 
 #EXTINF:0 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6067/240/default.jpg", Canal 9 Rocha
 https://tv.vera.com.uy/canal/6067
+
+
 
 #EXTINF:0, Radio AM
 https://www.youtube.com/watch?v=WHDSpgeloKs
@@ -182,7 +181,7 @@ http://204.197.245.100:9146/stream/1/
 #EXTINF:0 group-title="Colonia", Radio del Oeste
 http://server.laradio.online:8982/stream/1/
 
-#EXTINF:0 group-title="Cerro Largo", Radio Melo
+#EXTINF:0 group-title="Cerro Largo", Radio La voz de Melo
 http://gnstreammedia.com:8170/stream
 
 #EXTINF:0 group-title="Tacuarembó", Radio Zorrilla de San Martin
@@ -193,6 +192,23 @@ https://streaming1.hostingmontevideo.com:7017/stream/1/
 
 #EXTINF:0 group-title="Maldonado", Cadena del Mar
 https://streamingraddios.online/proxy/cadena?mp=/stream
+
+
+#EXTINF:0 group-title="Tacuarembó", Radio Tacuarembo AM
+http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM
+
+#EXTINF:0 group-title="Canelones", Cristal
+https://medios.ciudaddigital.com.uy:18126/CristalAM
+
+#EXTINF:0 group-title="Canelones", Radio Canelones
+http://204.197.245.100:8276/;
+
+#EXTINF:0 group-title="Paysandu", Radio Paysandu
+https://streamingv2.shoutcast.com/radio-paysandu-cw35
+
+#EXTINF:0 group-title="Salto", Radio Salto
+http://emisiones.com.uy:8087/salto
+
 
 #EXTINF:0, Radio FM
 https://www.youtube.com/watch?v=WHDSpgeloKs
@@ -298,7 +314,7 @@ http://usa15.ciudaddigital.com.uy:8030/CityFM
 #EXTINF:0 group-title="Durazno", Radio City 2
 http://169.53.2.105:8030/CityFM
 
-#EXTINF:0 group-title="Florida.", Adeom FM
+#EXTINF:0 group-title="Florida", Adeom FM
 http://s4.mexside.net:2142/stream/1/
 
 #EXTINF:0 group-title="Colonia", Sacramento FM
@@ -310,14 +326,19 @@ https://streamingv2.shoutcast.com/exito
 #EXTINF:0 group-title="Montevideo", Dias de Gloria
 http://server.laradio.online:9114/stream/1/
 
-#EXTINF:0 group-title="Tacuarembó", Radio Tacuarembo AM
-http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM
-
 #EXTINF:0 group-title="Florida", Libertador FM
 http://radio.hostlagarto.com:9780/stream?1612659080356
+
+#EXTINF:0 group-title="Montevideo", Cadena de la Costa
+http://s2.netradiofm.com:6112/stream/1/
+
+#EXTINF:0 group-title="Florida", FM Florida
+http://s2.mexside.net:8060/stream/1/
 	
-#EXTINF:0 group-title="Deportivo", Transmisiones de Fútbol Uruguayo
--------
+#EXTINF:0, Transmisiones de Fútbol Uruguayo
+-----
+
+
 
 #EXTINF:0 group-title="Deportivo", Pasion Tricolor - Naciona
 https://streaming1.hostingmontevideo.com:7000/;stream.mp3
@@ -357,3 +378,6 @@ http://198.15.107.53:8090/;
 
 #EXTINF:0 group-title="Deportivo ", Radio Uruguay
 https://radios.iwstreaming.uy/8036/stream
+
+#EXTINF:0 group-title="Deportivo", Radio La voz de Melo
+http://gnstreammedia.com:8170/stream
